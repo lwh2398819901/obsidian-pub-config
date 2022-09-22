@@ -1,0 +1,21 @@
+{
+  "foldIndent": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showIndentGuide": true,
+  "showFrontmatter": true,
+  "legacyEditor": true,
+  "livePreview": true,
+  "attachmentFolderPath": "08 开源框架学习/笔记",
+  "lineWrap": true,
+  "showLineNumber": false,
+  "strictLineBreaks": true,
+  "vimMode": false
+}

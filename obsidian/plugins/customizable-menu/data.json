@@ -1,0 +1,39 @@
+{
+  "menuCommands": [
+    {
+      "id": "workspace:split-vertical",
+      "name": "左右拆分",
+      "icon": "vertical-split"
+    },
+    {
+      "name": "导出为 PDF",
+      "id": "workspace:export-pdf",
+      "icon": "album"
+    },
+    {
+      "id": "insert-template",
+      "name": "模板: 插入模板",
+      "icon": "duplicate-glyph"
+    },
+    {
+      "id": "graph:open-local",
+      "name": "关系图谱: 打开局部关系图",
+      "icon": "graph-glyph"
+    },
+    {
+      "id": "workspace:undo-close-pane",
+      "name": "重新打开上一个关闭的面板",
+      "icon": "undo-glyph",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Shift"
+          ],
+          "key": "T"
+        }
+      ]
+    }
+  ],
+  "hideTitles": []
+}

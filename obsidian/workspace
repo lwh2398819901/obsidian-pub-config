@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "28712b5bb76b74a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0e44fa127eb6314",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01-1 实用工具/笔记/postman.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "935fdd41db37f87f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a97425fa16b0a07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c2e5f59125f0872",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "spdlog",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b8e78ffc8a572c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439.5
+  },
+  "right": {
+    "id": "d15add20819df697",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b291c5ee2bc8cc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02e04b85d8dda29e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-1 实用工具/笔记/postman.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "79b0f67c1b8ad41e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 148,
+    "collapsed": true
+  },
+  "active": "a0e44fa127eb6314",
+  "lastOpenFiles": [
+    "01-1 实用工具/笔记/git.md",
+    "01  编程工具/笔记/gcc&gdb&core.md",
+    "01  编程工具/笔记/cmake.md",
+    "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
+    "05 SQL/02 mysql/笔记/03 mysql基本语句.md",
+    "05 SQL/02 mysql/笔记/02 mysql体系结构.md",
+    "Pasted image 20220920183617.png",
+    "Pasted image 20220920182847.png",
+    "Pasted image 20220920142040.png",
+    "Pasted image 20220920121525.png"
+  ]
+}
