@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "05 SQL/02 mysql/笔记/04 mysql高级用法.md",
-            "mode": "source"
+            "file": "01 个人基础提升/数学学习/笔记/高中必修.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 SQL/02 mysql/笔记/04 mysql高级用法.md",
+                "file": "01 个人基础提升/数学学习/笔记/高中必修.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "a0e44fa127eb6314",
   "lastOpenFiles": [
+    "01 个人基础提升/数学学习/笔记/高一~高三.md",
+    "01 个人基础提升/数学学习/笔记/初一.md",
+    "01 个人基础提升/数学学习/笔记/初中总复习.md",
+    "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
+    "01 个人基础提升/数学学习/笔记/高中必修.md",
+    "01 个人基础提升/数学学习/笔记/初二.md",
+    "00-1 obsidian 模板/02 mysql代码段.md",
     "05 SQL/02 mysql/笔记/03 mysql基本语句.md",
     "03 linux/linux系统编程/笔记/进程.md",
-    "03 linux/linux系统编程/笔记/内核.md",
-    "问题集/问题集.md",
-    "09 音视频/ffmpeg/FFmpeg.md",
-    "09 音视频/ffmpeg/附件/Pasted image 20220920183617.png",
-    "09 音视频/ffmpeg/附件/Pasted image 20220920183441.png",
-    "09 音视频/ffmpeg/附件/Pasted image 20220920182847.png",
-    "09 音视频/ffmpeg/附件/Pasted image 20220920121525.png",
-    "09 音视频/ffmpeg/附件/Pasted image 20220920121202.png"
+    "03 linux/linux系统编程/笔记/内核.md"
   ]
 }
