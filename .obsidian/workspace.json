@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "28712b5bb76b74a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "88d4f62228513adb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26d5d6f3053c58fe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "935fdd41db37f87f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a97425fa16b0a07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c2e5f59125f0872",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "filefr",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6275e3529f753a08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "d15add20819df697",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b291c5ee2bc8cc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02e04b85d8dda29e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "79b0f67c1b8ad41e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "active": "6275e3529f753a08",
+  "lastOpenFiles": [
+    "obsidian-pub-config/README.md",
+    "附件/vc编译器内存分布示例2.png",
+    "附件/vfat下无法创建命名管道.png",
+    "附件/vi-vim-keyboard.png",
+    "附件/vptr和vtbl.png",
+    "附件/vptr和vtbl2.png",
+    "附件/wireshark界面.png",
+    "附件/xfs_info示例.png",
+    "附件/Pasted image 20211106180233.png",
+    "附件/Pasted image 20211103232650.png"
+  ]
+}
