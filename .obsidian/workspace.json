@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "88d4f62228513adb",
+        "id": "e0af25ec4b5116db",
         "type": "tabs",
         "children": [
           {
-            "id": "26d5d6f3053c58fe",
+            "id": "1b7f7bbc8aea48e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "filefr",
+                "query": "gcc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "6275e3529f753a08",
+            "id": "5b8e78ffc8a572c0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 439.5
   },
   "right": {
     "id": "d15add20819df697",
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,23 +97,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 148,
+    "collapsed": true
   },
-  "active": "6275e3529f753a08",
+  "active": "1b7f7bbc8aea48e3",
   "lastOpenFiles": [
-    "obsidian-pub-config/README.md",
-    "附件/vc编译器内存分布示例2.png",
-    "附件/vfat下无法创建命名管道.png",
-    "附件/vi-vim-keyboard.png",
-    "附件/vptr和vtbl.png",
-    "附件/vptr和vtbl2.png",
-    "附件/wireshark界面.png",
-    "附件/xfs_info示例.png",
-    "附件/Pasted image 20211106180233.png",
-    "附件/Pasted image 20211103232650.png"
+    "00 关于本资料库的使用方式/markdown语法.md",
+    "00-1 obsidian 模板/未命名.md",
+    "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
+    "03 linux/linux系统编程/笔记/linux静态库与动态库.md",
+    "01  编程工具/笔记/gcc&gdb&core.md",
+    "03 linux/linux命令/笔记/g.md",
+    "05 SQL/04 redis/redis高级操作.md",
+    "问题集/问题集.md",
+    "04 网络/笔记/协议.md",
+    "03 linux/linux系统编程/笔记/线程.md"
   ]
 }
