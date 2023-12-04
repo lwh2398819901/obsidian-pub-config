@@ -12,5 +12,7 @@
   "customizable-menu",
   "customizable-page-header-buttons",
   "mx-bili-plugin",
-  "terminal"
+  "terminal",
+  "convert-url-to-iframe",
+  "obsidian-git"
 ]
