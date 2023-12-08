@@ -33,6 +33,26 @@
           "key": "T"
         }
       ]
+    },
+    {
+      "name": "Obsidian Git: Stage current file",
+      "id": "obsidian-git:stage-current-file",
+      "icon": "save"
+    },
+    {
+      "name": "Obsidian Git: Commit staged",
+      "id": "obsidian-git:commit-staged",
+      "icon": "album"
+    },
+    {
+      "name": "Obsidian Git: Push",
+      "id": "obsidian-git:push2",
+      "icon": "arrow-up"
+    },
+    {
+      "name": "Obsidian Git: Pull",
+      "id": "obsidian-git:pull",
+      "icon": "arrow-down"
     }
   ],
   "hideTitles": []
