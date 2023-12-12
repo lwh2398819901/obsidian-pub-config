@@ -1,1 +1,21 @@
-{}
+{
+  "editor:open-link-in-new-window": [],
+  "Enhanced-editing:del-lines": [],
+  "Enhanced-editing:biaoti1-text": [],
+  "Enhanced-editing:mouse-up": [],
+  "convert-url-to-iframe:url-to-iframe": [],
+  "Enhanced-editing:biaoti2-text": [],
+  "Enhanced-editing:biaoti3-text": [],
+  "Enhanced-editing:biaoti4-text": [],
+  "Enhanced-editing:biaoti5-text": [],
+  "Enhanced-editing:biaoti6-text": [],
+  "fuzzy-chinese-pinyin:open-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search": []
+}

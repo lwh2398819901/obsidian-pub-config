@@ -14,5 +14,7 @@
   "mx-bili-plugin",
   "terminal",
   "convert-url-to-iframe",
-  "obsidian-git"
+  "obsidian-git",
+  "copilot",
+  "fuzzy-chinese-pinyin"
 ]

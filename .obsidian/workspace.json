@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
-                "mode": "preview",
+                "file": "tmp/go!go!go!枣庄到哈尔滨的一场说走就走（实际计划很久）的旅行.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 216.5
   },
   "right": {
     "id": "d15add20819df697",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
+                "file": "tmp/go!go!go!枣庄到哈尔滨的一场说走就走（实际计划很久）的旅行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,12 +104,20 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "b73844fab2ccc39b",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 148
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -122,27 +130,41 @@
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "copilot:Copilot Chat": false,
+      "fuzzy-chinese-pinyin:FuzzySearch": false
     }
   },
   "active": "ca4762c83f506925",
   "lastOpenFiles": [
-    "01 实用工具/开箱即用的工具/【other】其他.md",
+    "tmp/出行方案枣庄-》济南-》哈尔滨.canvas",
+    "tmp/go!go!go!枣庄到哈尔滨的一场说走就走（实际计划很久）的旅行.md",
+    "tmp/test.md",
+    "08 网络知识/你的电脑如何连上网络的？.md",
+    "你好.md",
+    "附件/Pasted image 20220721125657.png",
+    "附件/Pasted image 20221026183307.png",
+    "附件/Pasted image 20221111214005.png",
+    "附件/Pasted image 20221124104203.png",
+    "附件/Pasted image 20230327154657.png",
+    "附件/Pasted image 20230412135646.png",
+    "附件/Pasted image 20230629153632.png",
+    "附件/Pasted image 20231022205051.png",
+    "附件/Pasted image 20231208151939.png",
     "附件/Pasted image 20231208165021.png",
+    "附件/磁盘物理结构-》使用.md",
+    "12 软件设计师学习/02 计算机组成与体系结构.md",
+    "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
+    "tmp/附件",
+    "tmp/photo",
+    "tmp/新建文本文档.txt",
+    "01 实用工具/开箱即用的工具/【CodeBuild]】git.md",
+    "00 关于本资料库的使用方式/markdown语法.md",
+    "02 编程语言学习/shell/shell语法.md",
+    "01 实用工具/开箱即用的工具/【other】其他.md",
     "01 实用工具/开箱即用的工具/【other】磁盘恢复.md",
     "01 实用工具/开箱即用的工具/【Windows  debug】串口调试工具.md",
     "01 实用工具/开箱即用的工具/【NoteTool】Obsidian.md",
-    "附件/Pasted image 20231208152606.png",
-    "附件/Pasted image 20231208152533.png",
-    "附件/Pasted image 20231208152516.png",
-    "附件/Pasted image 20231208151939.png",
-    "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
-    "01 实用工具/开箱即用的工具/【CodeBuild]】git.md",
-    "附件/Pasted image 20231204104734.png",
-    "00 关于本资料库的使用方式/附件/1701656756917.png",
-    "00 关于本资料库的使用方式/附件/1701656771254.png",
-    "00 关于本资料库的使用方式/附件/1701656745245.png",
-    "00 关于本资料库的使用方式/附件/1701657789442.png",
     "01 实用工具/开箱即用的工具/【CodeBuild】anacanda.md",
     "01 实用工具/开箱即用的工具/【CodeBuild】cursor.md",
     "README.md",
@@ -152,18 +174,10 @@
     "02 编程语言学习/python/2 变量.md",
     "02 编程语言学习/python/1 简介.md",
     "02 编程语言学习/python/0 注释与注意事项.md",
-    "00 关于本资料库的使用方式/markdown语法.md",
     "00-1 obsidian 模板/06 python模板.md",
     "00-1 obsidian 模板/05 java代码段.md",
-    "Markdown技术胖浏览器收藏夹公开.md",
-    "问题集/问题集.md",
-    "tmp/未命名.md",
-    "01 实用工具/浏览器插件/【all】翻译插件推荐.md",
-    "04  操作系统/linux/命令/a.md",
     "08 网络知识/未命名.canvas",
-    "04  操作系统/linux/系统编程/03 静态库与共享库.md",
     "04  操作系统/windows",
-    "02 编程语言学习/前端/前置知识.md",
     "附件/网络协议2020版.pdf",
     "网络协议2020版.pdf",
     "tmp"
