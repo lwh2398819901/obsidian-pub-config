@@ -16,5 +16,7 @@
   "convert-url-to-iframe",
   "obsidian-git",
   "copilot",
-  "fuzzy-chinese-pinyin"
+  "fuzzy-chinese-pinyin",
+  "pkmer",
+  "obsidian-jupyter"
 ]

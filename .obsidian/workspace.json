@@ -4,22 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "3de04484b4ad3a56",
+        "id": "12d2b9a3c512d4d5",
         "type": "tabs",
         "children": [
           {
-            "id": "ca4762c83f506925",
+            "id": "cf11d3b5d0e2747a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp/go!go!go!枣庄到哈尔滨的一场说走就走（实际计划很久）的旅行.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "pkmer-downloader",
+              "state": {}
+            }
+          },
+          {
+            "id": "aeb4d94fbfe041d8",
+            "type": "leaf",
+            "state": {
+              "type": "pkmer-downloader",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +43,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 364.5
   },
   "right": {
     "id": "d15add20819df697",
@@ -86,14 +91,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmp/go!go!go!枣庄到哈尔滨的一场说走就走（实际计划很久）的旅行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -117,10 +121,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 492.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "fuzzy-chinese-pinyin:FuzzySearch": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -132,54 +138,58 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "terminal:Open terminal": false,
       "copilot:Copilot Chat": false,
-      "fuzzy-chinese-pinyin:FuzzySearch": false
+      "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "ca4762c83f506925",
+  "active": "aeb4d94fbfe041d8",
   "lastOpenFiles": [
-    "tmp/出行方案枣庄-》济南-》哈尔滨.canvas",
-    "tmp/go!go!go!枣庄到哈尔滨的一场说走就走（实际计划很久）的旅行.md",
-    "tmp/test.md",
-    "08 网络知识/你的电脑如何连上网络的？.md",
-    "你好.md",
-    "附件/Pasted image 20220721125657.png",
-    "附件/Pasted image 20221026183307.png",
-    "附件/Pasted image 20221111214005.png",
-    "附件/Pasted image 20221124104203.png",
-    "附件/Pasted image 20230327154657.png",
-    "附件/Pasted image 20230412135646.png",
-    "附件/Pasted image 20230629153632.png",
-    "附件/Pasted image 20231022205051.png",
-    "附件/Pasted image 20231208151939.png",
-    "附件/Pasted image 20231208165021.png",
-    "附件/磁盘物理结构-》使用.md",
-    "12 软件设计师学习/02 计算机组成与体系结构.md",
     "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
-    "tmp/附件",
-    "tmp/photo",
-    "tmp/新建文本文档.txt",
-    "01 实用工具/开箱即用的工具/【CodeBuild]】git.md",
-    "00 关于本资料库的使用方式/markdown语法.md",
-    "02 编程语言学习/shell/shell语法.md",
-    "01 实用工具/开箱即用的工具/【other】其他.md",
-    "01 实用工具/开箱即用的工具/【other】磁盘恢复.md",
-    "01 实用工具/开箱即用的工具/【Windows  debug】串口调试工具.md",
-    "01 实用工具/开箱即用的工具/【NoteTool】Obsidian.md",
-    "01 实用工具/开箱即用的工具/【CodeBuild】anacanda.md",
-    "01 实用工具/开箱即用的工具/【CodeBuild】cursor.md",
-    "README.md",
-    "00 关于本资料库的使用方式/附件/大前端知识图谱+B站视频整合.md",
-    "00 关于本资料库的使用方式/附件/插图测试.md",
-    "02 编程语言学习/python/03 列表.md",
+    "00 关于本资料库的使用方式/附件/Pasted image 20240306144708.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20240306144638.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20240306144636.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20240306144256.png",
     "02 编程语言学习/python/2 变量.md",
+    "02 编程语言学习/python/3 列表.md",
     "02 编程语言学习/python/1 简介.md",
+    "02 编程语言学习/python/jupyterLab/test.ipynb",
+    "02 编程语言学习/python/jupyterLab",
+    "02 编程语言学习/python/新建文件夹",
     "02 编程语言学习/python/0 注释与注意事项.md",
-    "00-1 obsidian 模板/06 python模板.md",
-    "00-1 obsidian 模板/05 java代码段.md",
+    "02 编程语言学习/python/环境配置.md",
+    "tmp/test.md",
+    "tmp/附件/9f51112bce67812f4af0881a98468b1.jpg",
+    "tmp/附件/b8e1e6bbda74b5c577da1657ab52904.jpg",
+    "附件/Ext2预分配.png",
+    "02 编程语言学习/python/附件/Pasted image 20240304100830.png",
+    "02 编程语言学习/python/附件/Pasted image 20240304100817.png",
+    "02 编程语言学习/python/附件/Pasted image 20240304100748.png",
+    "02 编程语言学习/python/附件",
+    "README.md",
+    "01 实用工具/浏览器插件/【chrome】如何编写谷歌插件.md",
+    "01 实用工具/浏览器插件/【all】油猴插件.md",
+    "01 实用工具/浏览器插件/【all】通用插件推荐.md",
+    "00 关于本资料库的使用方式/markdown语法.md",
+    "00 关于本资料库的使用方式/附件/插图测试.md",
+    "00 关于本资料库的使用方式/附件/大前端知识图谱+B站视频整合.md",
+    "00 关于本资料库的使用方式/附件/Markdown技术胖浏览器收藏夹公开.md",
+    "01 实用工具/开箱即用的工具/【other】其他.md",
+    "01 实用工具/开箱即用的工具/【debug】wireshark.md",
+    "01 实用工具/开箱即用的工具/【debug】postman.md",
+    "01 实用工具/开箱即用的工具/【debug】mitmproxy(中间人攻击).md",
+    "01 实用工具/开箱即用的工具/【container】docker.md",
+    "01 实用工具/开箱即用的工具/【CodeBuild】cursor.md",
+    "01 实用工具/开箱即用的工具/【CodeBuild】anacanda.md",
+    "01 实用工具/开箱即用的工具/【CodeBuild]】vim.md",
+    "01 实用工具/开箱即用的工具/【CodeBuild]】cmake.md",
+    "04  操作系统/操作系统/1. 操作系统概念.md",
+    "11 零散的知识/附件/网络结构.canvas",
+    "Excalidraw",
+    "11 零散的知识/附件",
     "08 网络知识/未命名.canvas",
-    "04  操作系统/windows",
-    "附件/网络协议2020版.pdf",
-    "网络协议2020版.pdf",
-    "tmp"
+    "04  操作系统/操作系统/附件",
+    "04  操作系统/操作系统",
+    "01 实用工具/开箱即用的工具/附件/cmake/02 语法/list.cmake",
+    "01 实用工具/开箱即用的工具/附件/cmake/02 语法/set.cmake",
+    "tmp/出行方案枣庄-》济南-》哈尔滨.canvas"
   ]
 }

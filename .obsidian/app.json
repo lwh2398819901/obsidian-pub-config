@@ -21,5 +21,6 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "newFileLocation": "current",
-  "trashOption": "local"
+  "trashOption": "local",
+  "showUnsupportedFiles": true
 }
