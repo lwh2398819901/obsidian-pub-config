@@ -1,26 +1,34 @@
 {
   "main": {
-    "id": "28712b5bb76b74a1",
+    "id": "091188e6fe3edbeb",
     "type": "split",
     "children": [
       {
-        "id": "12d2b9a3c512d4d5",
+        "id": "f60d879eb012b9e2",
         "type": "tabs",
         "children": [
           {
-            "id": "cf11d3b5d0e2747a",
+            "id": "f7c0648403b8245d",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 编程语言学习/python/3 列表.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "aeb4d94fbfe041d8",
+            "id": "30e41e38cf8d923e",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 编程语言学习/python/4 字典.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -30,30 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "935fdd41db37f87f",
+    "id": "6869bc13d25bf318",
     "type": "split",
     "children": [
       {
-        "id": "6a97425fa16b0a07",
+        "id": "5656389882422fa3",
         "type": "tabs",
         "children": [
           {
-            "id": "5c2e5f59125f0872",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "git",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "5b8e78ffc8a572c0",
+            "id": "a4cd0b544a083dbb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,34 +56,65 @@
             }
           },
           {
-            "id": "d88143714b142769",
+            "id": "fb39189b7facf4ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab2d39e3cdfe0672",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "b831ad8cd19997ba",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "d11c39e2e237e2e0",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 285.5
   },
   "right": {
-    "id": "d15add20819df697",
+    "id": "ca0a536a604a0f30",
     "type": "split",
     "children": [
       {
-        "id": "1b291c5ee2bc8cc8",
+        "id": "b7ae3b566f237c9b",
         "type": "tabs",
         "children": [
           {
-            "id": "02e04b85d8dda29e",
+            "id": "cdff153513c95c1e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 编程语言学习/python/4 字典.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,27 @@
             }
           },
           {
-            "id": "79b0f67c1b8ad41e",
+            "id": "9ee3a16ddb4f9b62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 编程语言学习/python/4 字典.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38a947f789d7b22a",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "516011689ed7d326",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -110,86 +154,88 @@
             }
           },
           {
-            "id": "b73844fab2ccc39b",
+            "id": "56dbfe0bed9833ff",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 492.5,
-    "collapsed": true
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "fuzzy-chinese-pinyin:FuzzySearch": false,
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "pkmer:Open Pkmer Market": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-file-cleaner:清理文件": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "terminal:Open terminal": false,
-      "copilot:Copilot Chat": false,
-      "pkmer:Open Pkmer Market": false
+      "media-extended:Open media": true,
+      "cmdr:Commander: 打开 Commander 设置": false,
+      "cmdr:切换实时阅览/源码模式": false,
+      "cmdr:重新加载 Obsidian（不保存当前编辑内容）": false,
+      "cmdr:Custom Frames: Open B 站": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "aeb4d94fbfe041d8",
+  "active": "a4cd0b544a083dbb",
   "lastOpenFiles": [
-    "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
-    "00 关于本资料库的使用方式/附件/Pasted image 20240306144708.png",
-    "00 关于本资料库的使用方式/附件/Pasted image 20240306144638.png",
-    "00 关于本资料库的使用方式/附件/Pasted image 20240306144636.png",
-    "00 关于本资料库的使用方式/附件/Pasted image 20240306144256.png",
-    "02 编程语言学习/python/2 变量.md",
     "02 编程语言学习/python/3 列表.md",
-    "02 编程语言学习/python/1 简介.md",
-    "02 编程语言学习/python/jupyterLab/test.ipynb",
-    "02 编程语言学习/python/jupyterLab",
-    "02 编程语言学习/python/新建文件夹",
+    "02 编程语言学习/python/4 字典.md",
+    "02 编程语言学习/python/2 变量.md",
+    "02 编程语言学习/python/1 环境配置.md",
     "02 编程语言学习/python/0 注释与注意事项.md",
-    "02 编程语言学习/python/环境配置.md",
     "tmp/test.md",
-    "tmp/附件/9f51112bce67812f4af0881a98468b1.jpg",
-    "tmp/附件/b8e1e6bbda74b5c577da1657ab52904.jpg",
-    "附件/Ext2预分配.png",
-    "02 编程语言学习/python/附件/Pasted image 20240304100830.png",
-    "02 编程语言学习/python/附件/Pasted image 20240304100817.png",
-    "02 编程语言学习/python/附件/Pasted image 20240304100748.png",
-    "02 编程语言学习/python/附件",
-    "README.md",
-    "01 实用工具/浏览器插件/【chrome】如何编写谷歌插件.md",
-    "01 实用工具/浏览器插件/【all】油猴插件.md",
-    "01 实用工具/浏览器插件/【all】通用插件推荐.md",
-    "00 关于本资料库的使用方式/markdown语法.md",
-    "00 关于本资料库的使用方式/附件/插图测试.md",
-    "00 关于本资料库的使用方式/附件/大前端知识图谱+B站视频整合.md",
-    "00 关于本资料库的使用方式/附件/Markdown技术胖浏览器收藏夹公开.md",
-    "01 实用工具/开箱即用的工具/【other】其他.md",
-    "01 实用工具/开箱即用的工具/【debug】wireshark.md",
-    "01 实用工具/开箱即用的工具/【debug】postman.md",
-    "01 实用工具/开箱即用的工具/【debug】mitmproxy(中间人攻击).md",
-    "01 实用工具/开箱即用的工具/【container】docker.md",
-    "01 实用工具/开箱即用的工具/【CodeBuild】cursor.md",
-    "01 实用工具/开箱即用的工具/【CodeBuild】anacanda.md",
-    "01 实用工具/开箱即用的工具/【CodeBuild]】vim.md",
-    "01 实用工具/开箱即用的工具/【CodeBuild]】cmake.md",
-    "04  操作系统/操作系统/1. 操作系统概念.md",
-    "11 零散的知识/附件/网络结构.canvas",
-    "Excalidraw",
-    "11 零散的知识/附件",
-    "08 网络知识/未命名.canvas",
-    "04  操作系统/操作系统/附件",
-    "04  操作系统/操作系统",
-    "01 实用工具/开箱即用的工具/附件/cmake/02 语法/list.cmake",
-    "01 实用工具/开箱即用的工具/附件/cmake/02 语法/set.cmake",
-    "tmp/出行方案枣庄-》济南-》哈尔滨.canvas"
+    "tmp/Windows网络编程.md",
+    "tmp/围城.md",
+    "tmp/1984.md",
+    "tmp/人体简史.md",
+    "tmp/未来简史：从智人到智神.md",
+    "tmp/Qt中的C++技术.md",
+    "tmp/今日简史：人类命运大议题.md",
+    "tmp/古龙作品大全集（电视剧《欢乐英雄》原著小说）.md",
+    "tmp/奥登诗选：1948-1973（奥登文集）.md",
+    "tmp/程序是怎样跑起来的.md",
+    "tmp/半小时漫画经济学3：金融危机完结篇.md",
+    "tmp/半小时漫画经济学系列（共4册）.md",
+    "tmp/小狗钱钱.md",
+    "tmp/精通Python网络爬虫：核心技术、框架与项目实战.md",
+    "tmp/资治通鉴（最爱读国学系列）.md",
+    "tmp/三体（全集）.md",
+    "tmp/瘟疫与人.md",
+    "tmp/每天演好一个情绪稳定的成年人.md",
+    "tmp/Linux Shell编程从初学到精通.md",
+    "tmp/细胞生命的礼赞.md",
+    "00 关于本资料库的使用方式/附件/Pasted image 20240307170226.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20240307165036.png",
+    "00 关于本资料库的使用方式/附件/20231212135512.png",
+    "00 关于本资料库的使用方式/附件/设置自定义样式.png",
+    "Pasted image 20240307134645.png",
+    "Pasted image 20240307131859.png",
+    "Pasted image 20240307131035.png",
+    "测试/未命名.canvas",
+    "Python编程快速上手：让繁琐工作自动化（第2版） (阿尔·斯维加特（Al Sweigart）) (Z-Library).epub",
+    "Python编程三剑客：Python编程从入门到实践+快速上手+极客编程 (埃里克·马瑟斯 (Eric Matthes), Al Sweigart etc.) (Z-Library).epub",
+    "未命名 2",
+    "未命名 1",
+    "未命名",
+    "测试/未命名",
+    "测试"
   ]
 }

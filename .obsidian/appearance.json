@@ -1,10 +1,6 @@
 {
-  "baseFontSize": 16,
-  "theme": "moonstone",
-  "enabledCssSnippets": [
-    "test",
-    "main"
-  ],
-  "cssTheme": "",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 14,
+  "showViewHeader": true,
+  "theme": "system"
 }

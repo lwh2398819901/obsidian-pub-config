@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://www.bilibili.com/",
+      "displayName": "B 站",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

@@ -1,26 +1,13 @@
 {
-  "foldIndent": false,
-  "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "readableLineLength": false,
-  "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": true,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "showIndentGuide": true,
-  "showFrontmatter": true,
-  "legacyEditor": false,
   "livePreview": false,
   "attachmentFolderPath": "./附件",
-  "lineWrap": true,
-  "showLineNumber": false,
-  "strictLineBreaks": true,
-  "vimMode": false,
+  "showInlineTitle": false,
+  "readableLineLength": false,
+  "trashOption": "local",
+  "newFileLocation": "current",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "newFileLocation": "current",
-  "trashOption": "local",
+  "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true
 }

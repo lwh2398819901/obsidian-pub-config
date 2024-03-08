@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": "#3f84c6",
+    "recentlyUsedIcons": [
+      "🏫",
+      "🧰",
+      "OcAccessibilityInset16",
+      "OcArrowDownLeft16",
+      "😀"
+    ],
+    "recentlyUsedIconsSize": 25,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "00 关于本资料库的使用方式": {
+    "iconName": "OcAccessibilityInset16",
+    "iconColor": "#30bb53"
+  },
+  "01 实用工具": "🧰",
+  "02 编程语言学习": "😀"
+}

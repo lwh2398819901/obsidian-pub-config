@@ -1,0 +1,116 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "obsidian-mindmap-nextgen:mindmapnextgen:pinned",
+      "icon": "map",
+      "name": "思维导图",
+      "mode": "any"
+    },
+    {
+      "id": "calendar:show-calendar-view",
+      "icon": "calendar",
+      "name": "Calendar: Open view",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:pull",
+      "icon": "git-pull-request",
+      "name": "Git: Pull",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "icon": "arrow-up",
+      "name": "Git: Push",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:stage-current-file",
+      "icon": "save",
+      "name": "Git: Stage current file",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:commit-staged",
+      "icon": "git-commit",
+      "name": "Git: Commit staged",
+      "mode": "any"
+    },
+    {
+      "id": "insert-template",
+      "icon": "lucide-copy",
+      "name": "模板: 插入模板",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-file-cleaner:clean-files",
+      "icon": "trash-2",
+      "name": "清理文件",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "cmdr:open-commander-settings",
+      "icon": "command",
+      "name": "Commander: 打开 Commander 设置",
+      "mode": "any"
+    },
+    {
+      "id": "editor:toggle-source",
+      "icon": "lucide-code-2",
+      "name": "切换实时阅览/源码模式",
+      "mode": "any"
+    },
+    {
+      "id": "app:reload",
+      "icon": "lucide-rotate-ccw",
+      "name": "重新加载 Obsidian（不保存当前编辑内容）",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-custom-frames:open-custom-frames-b-站",
+      "icon": "airplay",
+      "name": "Custom Frames: Open B 站",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-mindmap-nextgen:mindmapnextgen:pinned",
+      "icon": "map",
+      "name": "思维导图",
+      "mode": "any"
+    },
+    {
+      "id": "insert-template",
+      "icon": "lucide-copy",
+      "name": "模板: 插入模板",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
