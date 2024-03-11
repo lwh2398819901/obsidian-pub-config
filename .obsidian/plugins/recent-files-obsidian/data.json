@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "4 字典",
-      "path": "02 编程语言学习/python/4 字典.md"
+      "basename": "5.函数",
+      "path": "02 编程语言学习/python/5.函数.md"
     },
     {
-      "basename": "3 列表",
-      "path": "02 编程语言学习/python/3 列表.md"
+      "basename": "c++ 编程技巧",
+      "path": "02 编程语言学习/C&C++/c++ 编程技巧.md"
     },
     {
-      "basename": "2 变量",
-      "path": "02 编程语言学习/python/2 变量.md"
+      "basename": "4.字典",
+      "path": "02 编程语言学习/python/4.字典.md"
     },
     {
-      "basename": "1 环境配置",
-      "path": "02 编程语言学习/python/1 环境配置.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "0 注释与注意事项",
-      "path": "02 编程语言学习/python/0 注释与注意事项.md"
+      "basename": "c++  语法",
+      "path": "02 编程语言学习/C&C++/c++  语法.md"
+    },
+    {
+      "basename": "2.变量",
+      "path": "02 编程语言学习/python/2.变量.md"
+    },
+    {
+      "basename": "1.基础知识",
+      "path": "02 编程语言学习/python/1.基础知识.md"
+    },
+    {
+      "basename": "3.列表",
+      "path": "02 编程语言学习/python/3.列表.md"
+    },
+    {
+      "basename": "0.开始前的准备",
+      "path": "02 编程语言学习/python/0.开始前的准备.md"
     },
     {
       "basename": "test",
@@ -31,14 +47,6 @@
     {
       "basename": "c++ 对象模型",
       "path": "02 编程语言学习/C&C++/c++ 对象模型.md"
-    },
-    {
-      "basename": "c++ 编程技巧",
-      "path": "02 编程语言学习/C&C++/c++ 编程技巧.md"
-    },
-    {
-      "basename": "c++  语法",
-      "path": "02 编程语言学习/C&C++/c++  语法.md"
     },
     {
       "basename": "术语及名词解释",

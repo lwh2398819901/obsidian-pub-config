@@ -1,6 +1,42 @@
 {
   "bookmarks": [
     {
+      "id": "1826497334",
+      "name": "JupyterLab",
+      "url": "http://localhost:8888/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1710120002642,
+      "modified": 1710120002642
+    },
+    {
+      "id": "-1172163274",
+      "name": "Kimi.ai - 帮你看更大的世界",
+      "url": "https://kimi.moonshot.cn/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1709884680000,
+      "modified": 1709884800000
+    },
+    {
+      "id": "1680102587",
+      "name": "高效问答 | 让知识无界,智能触手可及",
+      "url": "https://www.zaiwen.top/#/chat/working-edition",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1709881722917,
+      "modified": 1709881722917
+    },
+    {
       "id": "1217514461",
       "name": "python教程：15种字符串操作方法_python字符串的常用操作方法有-CSDN博客",
       "url": "https://blog.csdn.net/qdPython/article/details/124063345",

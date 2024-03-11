@@ -32,7 +32,7 @@
     "saveBookMark": false,
     "sendToReadWise": false,
     "pagination": "12",
-    "category": "- Computer\n    - 算法\n    - 数据结构\n- obsidian\n    - surfing\n    - dataview\n",
+    "category": "- Computer\n    - 算法\n    - 数据结构\n- obsidian\n    - surfing\n    - dataview\n- test\n\n",
     "defaultCategory": "ROOT",
     "defaultColumnList": [
       "name",
@@ -48,10 +48,10 @@
   },
   "treeData": [
     {
-      "id": "01ebaf70ca3f9bf1",
+      "id": "2541dfe85e020d2c",
       "parent": 0,
       "droppable": true,
-      "text": "python教程：15种字符串操作方法_python字符串的常用操作方法有-CSDN博客",
+      "text": "JupyterLab",
       "data": {
         "fileType": "site",
         "fileSize": "",
@@ -59,10 +59,10 @@
       }
     },
     {
-      "id": "84681c87fac8b493",
+      "id": "30e326faf922b274",
       "parent": 0,
       "droppable": true,
-      "text": "Readwise",
+      "text": "Kimi.ai - 帮你看更大的世界",
       "data": {
         "fileType": "site",
         "fileSize": "",

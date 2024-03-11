@@ -73,9 +73,27 @@
       "mode": "any"
     },
     {
+      "id": "surfing:refresh-page",
+      "icon": "activity",
+      "name": "Surfing: 刷新当前页面",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-hkrzgdcq9s",
+      "icon": "file-check-2",
+      "name": "md转jupyter",
+      "mode": "any"
+    },
+    {
       "id": "obsidian-custom-frames:open-custom-frames-b-站",
-      "icon": "airplay",
+      "icon": "bold",
       "name": "Custom Frames: Open B 站",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-05jrlw4pcc",
+      "icon": "bug",
+      "name": "jupyterStart",
       "mode": "any"
     }
   ],
@@ -93,6 +111,18 @@
       "id": "insert-template",
       "icon": "lucide-copy",
       "name": "模板: 插入模板",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "左右分屏",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:split-horizontal",
+      "icon": "lucide-separator-horizontal",
+      "name": "上下分屏",
       "mode": "any"
     }
   ],

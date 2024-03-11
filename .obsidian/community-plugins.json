@@ -27,5 +27,6 @@
   "convert-url-to-iframe",
   "obsidian-git",
   "editing-toolbar",
-  "obsidian-weread-plugin"
+  "obsidian-weread-plugin",
+  "obsidian-shellcommands"
 ]
