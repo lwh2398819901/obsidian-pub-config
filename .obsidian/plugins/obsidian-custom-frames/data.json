@@ -11,18 +11,6 @@
       "forceIframe": false,
       "customCss": "",
       "customJs": ""
-    },
-    {
-      "url": "http://localhost:8888/lab",
-      "displayName": "Jupyter",
-      "icon": "",
-      "hideOnMobile": true,
-      "addRibbonIcon": true,
-      "openInCenter": true,
-      "zoomLevel": 1,
-      "forceIframe": true,
-      "customCss": "",
-      "customJs": ""
     }
   ],
   "padding": 5

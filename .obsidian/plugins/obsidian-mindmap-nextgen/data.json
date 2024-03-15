@@ -4,7 +4,7 @@
     null
   ],
   "settings": {
-    "splitDirection": "vertical",
+    "splitDirection": "horizontal",
     "nodeMinHeight": 16,
     "lineHeight": "1em",
     "spacingVertical": 5,
@@ -24,7 +24,7 @@
     "depth3Thickness": "1",
     "defaultColor": "#b58900",
     "defaultThickness": "1",
-    "screenshotBgColor": "#050001",
+    "screenshotBgColor": "#002b36",
     "screenshotBgStyle": "color",
     "screenshotTextColor": "#fdf6e3",
     "screenshotTextColorEnabled": false,

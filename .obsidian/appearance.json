@@ -2,5 +2,6 @@
   "accentColor": "",
   "baseFontSize": 18,
   "showViewHeader": true,
-  "theme": "system"
+  "theme": "system",
+  "nativeMenus": false
 }

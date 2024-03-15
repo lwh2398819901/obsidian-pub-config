@@ -1,28 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20231221124018",
+      "path": "tmp/附件/Pasted image 20231221124018.png"
+    },
+    {
+      "basename": "1-13 数字电视基础",
+      "path": "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/1-13 数字电视基础.mp4"
+    },
+    {
+      "basename": "1-3 音视频小白自学的困惑",
+      "path": "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/1-3 音视频小白自学的困惑.mp4"
+    },
+    {
+      "basename": "1-2 5G+音视频到底是什么？",
+      "path": "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/1-2 5G+音视频到底是什么？.mp4"
+    },
+    {
+      "basename": "7.类",
+      "path": "02 编程语言学习/python/7.类.md"
+    },
+    {
+      "basename": "1-1 福优学苑--简历包装与面试技巧",
+      "path": "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/1-1 福优学苑--简历包装与面试技巧.mp4"
+    },
+    {
+      "basename": "[1.1]--1-2FFmpeg5.0-课程导学",
+      "path": "tmp/test 快捷方式/mp4/08 音视频资料/音视频/（赠送）FFmpeg5.0打造音视频播放器-12章/{1}--第1章学习指南【课程提供200+问题与答案库】/[1.1]--1-2FFmpeg5.0-课程导学.mp4"
+    },
+    {
+      "basename": "Python核心编程  （第二版）",
+      "path": "tmp/test 快捷方式/00 编程语言/Python/pdf/Python核心编程  （第二版）.pdf"
+    },
+    {
+      "basename": "scrapy-chinese",
+      "path": "tmp/test 快捷方式/00 编程语言/Python/pdf/scrapy-chinese.pdf"
+    },
+    {
+      "basename": "Python__kejian",
+      "path": "tmp/test 快捷方式/00 编程语言/Python/python/第四阶段/14.Python 爬虫基础/Python__kejian.pdf"
+    },
+    {
+      "basename": "625023 自己动手写Docker.陈显鹭",
+      "path": "tmp/test 快捷方式/03 通用工具/docker/625023 自己动手写Docker.陈显鹭.pdf"
+    },
+    {
+      "basename": "Docker容器学习笔记全（狂神说Java）",
+      "path": "tmp/test 快捷方式/03 通用工具/docker/Docker容器学习笔记全（狂神说Java）.pdf"
+    },
+    {
+      "basename": "Android+UI基础教程",
+      "path": "tmp/test 快捷方式/00 编程语言/android/Android+UI基础教程.pdf"
+    },
+    {
+      "basename": "Python编程：从入门到实践（第3版） ([美] 埃里克 • 马瑟斯（Eric Matthes）) (Z-Library)",
+      "path": "tmp/test 快捷方式/00 编程语言/Python/pdf/Python编程：从入门到实践（第3版） ([美] 埃里克 • 马瑟斯（Eric Matthes）) (Z-Library).pdf"
+    },
+    {
+      "basename": "《Python Cookbook》第三版中文v2.0.0",
+      "path": "tmp/test 快捷方式/00 编程语言/Python/pdf/《Python Cookbook》第三版中文v2.0.0.pdf"
+    },
+    {
+      "basename": "Linux_UNIX系统编程手册（上）",
+      "path": "tmp/test 快捷方式/06 linux/pdf/Linux_UNIX系统编程手册（上）/Linux_UNIX系统编程手册（上）.pdf"
+    },
+    {
+      "basename": "6.模块",
+      "path": "02 编程语言学习/python/6.模块.md"
+    },
+    {
       "basename": "5.函数",
       "path": "02 编程语言学习/python/5.函数.md"
     },
     {
-      "basename": "c++ 编程技巧",
-      "path": "02 编程语言学习/C&C++/c++ 编程技巧.md"
-    },
-    {
-      "basename": "4.字典",
-      "path": "02 编程语言学习/python/4.字典.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "c++  语法",
-      "path": "02 编程语言学习/C&C++/c++  语法.md"
-    },
-    {
-      "basename": "2.变量",
-      "path": "02 编程语言学习/python/2.变量.md"
+      "basename": "胡思乱想的想法",
+      "path": "tmp/胡思乱想的想法.md"
     },
     {
       "basename": "1.基础知识",
@@ -33,12 +85,76 @@
       "path": "02 编程语言学习/python/3.列表.md"
     },
     {
-      "basename": "0.开始前的准备",
-      "path": "02 编程语言学习/python/0.开始前的准备.md"
+      "basename": "1.1 系统函数",
+      "path": "02 编程语言学习/python/1.1 系统函数.md"
+    },
+    {
+      "basename": "02 计算机组成与体系结构",
+      "path": "12 软件设计师学习/02 计算机组成与体系结构.md"
+    },
+    {
+      "basename": "4.字典",
+      "path": "02 编程语言学习/python/4.字典.md"
+    },
+    {
+      "basename": "加密算法",
+      "path": "11 零散的知识/加密算法.md"
     },
     {
       "basename": "test",
       "path": "tmp/test.md"
+    },
+    {
+      "basename": "术语及概念解释",
+      "path": "10 架构师学习/术语及概念解释.md"
+    },
+    {
+      "basename": "03 磁盘管理",
+      "path": "04  操作系统/linux/系统知识/03 磁盘管理.md"
+    },
+    {
+      "basename": "00 帮助手册与关机",
+      "path": "04  操作系统/linux/系统知识/00 帮助手册与关机.md"
+    },
+    {
+      "basename": "03 静态库与共享库",
+      "path": "04  操作系统/linux/系统编程/03 静态库与共享库.md"
+    },
+    {
+      "basename": "02-1 线程同步",
+      "path": "04  操作系统/linux/系统编程/02-1 线程同步.md"
+    },
+    {
+      "basename": "02 线程",
+      "path": "04  操作系统/linux/系统编程/02 线程.md"
+    },
+    {
+      "basename": "01-1 进程通信",
+      "path": "04  操作系统/linux/系统编程/01-1 进程通信.md"
+    },
+    {
+      "basename": "00 内核",
+      "path": "04  操作系统/linux/系统编程/00 内核.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "c++ 编程技巧",
+      "path": "02 编程语言学习/C&C++/c++ 编程技巧.md"
+    },
+    {
+      "basename": "c++  语法",
+      "path": "02 编程语言学习/C&C++/c++  语法.md"
+    },
+    {
+      "basename": "2.变量",
+      "path": "02 编程语言学习/python/2.变量.md"
+    },
+    {
+      "basename": "0.开始前的准备",
+      "path": "02 编程语言学习/python/0.开始前的准备.md"
     },
     {
       "basename": "前置知识",
@@ -79,22 +195,6 @@
     {
       "basename": "未命名看板",
       "path": "测试/未命名看板.md"
-    },
-    {
-      "basename": "bbb231",
-      "path": "bbb231.md"
-    },
-    {
-      "basename": "2024-03-07",
-      "path": "2024-03-07.md"
-    },
-    {
-      "basename": "未命名 3",
-      "path": "未命名 3.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "测试/未命名.canvas"
     }
   ],
   "omittedPaths": [],

@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8b12ae97c7c0eda2",
+        "id": "d0dbbb82bdfba2ae",
         "type": "tabs",
         "children": [
           {
-            "id": "91d8046b040436b6",
+            "id": "46c011f918a68491",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "02 编程语言学习/python/5.函数.md",
-                "mode": "source",
-                "source": true
+                "file": "tmp/附件/Pasted image 20231221124018.png"
               }
             }
           }
         ]
-      },
-      {
-        "id": "31ced1afa3beca43",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2541dfe85e020d2c",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "http://localhost:8888/"
-              }
-            }
-          },
-          {
-            "id": "30e326faf922b274",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://kimi.moonshot.cn/"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 624.5
   },
   "right": {
     "id": "ca0a536a604a0f30",
@@ -123,11 +94,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fd79cafaae8da78f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 编程语言学习/python/7.类.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "cdff153513c95c1e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tmp/附件/Pasted image 20231221124018.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tmp/附件/Pasted image 20231221124018.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,80 +161,80 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Jupyter": false,
-      "surfing:surfing-bookmark-manager": true,
+      "templates:插入模板": false,
       "command-palette:打开命令面板": true,
-      "graph:查看关系图谱": false,
+      "graph:查看关系图谱": true,
       "canvas:新建白板": true,
       "switcher:打开快速切换": true,
       "daily-notes:打开/创建今天的日记": true,
-      "templates:插入模板": true,
+      "surfing:surfing-bookmark-manager": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "pkmer:Open Pkmer Market": false,
+      "terminal:Open terminal": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-file-cleaner:清理文件": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": true,
-      "terminal:Open terminal": false,
+      "obsidian-statusbar-pomo:Start pomodoro": true,
       "media-extended:Open media": true,
-      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "obsidian-weread-plugin:同步微信读书笔记": true,
+      "obsidian-file-cleaner:清理文件": false,
       "cmdr:Commander: 打开 Commander 设置": false,
       "cmdr:切换实时阅览/源码模式": false,
       "cmdr:重新加载 Obsidian（不保存当前编辑内容）": false,
+      "cmdr:Weread: 同步微信读书笔记": false,
       "cmdr:Surfing: 刷新当前页面": false,
-      "cmdr:md转jupyter": false,
       "cmdr:Custom Frames: Open B 站": false,
-      "cmdr:jupyterStart": false
+      "cmdr:jupyterStart": false,
+      "cmdr:jupyterStop": false,
+      "cmdr:md2ipynb": false,
+      "cmdr:在系统资源管理器中显示": false
     }
   },
-  "active": "30e326faf922b274",
+  "active": "46c011f918a68491",
   "lastOpenFiles": [
+    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/Media Note - 1-3 音视频小白自学的困惑.md",
+    "tmp/附件/Pasted image 20231221124018.png",
+    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/1-13 数字电视基础.mp4",
+    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/1-3 音视频小白自学的困惑.mp4",
+    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/1-2 5G+音视频到底是什么？.mp4",
+    "02 编程语言学习/python/7.类.md",
+    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/1-1 福优学苑--简历包装与面试技巧.mp4",
+    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/（赠送）FFmpeg5.0打造音视频播放器-12章/{1}--第1章学习指南【课程提供200+问题与答案库】/[1.1]--1-2FFmpeg5.0-课程导学.mp4",
+    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/（赠送）FFmpeg5.0打造音视频播放器-12章/{9}--第9章如何在Android下使用FFmpeg/[9.8]--9-8实战-Android下的播放器.mp4",
+    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/（赠送）FFmpeg5.0打造音视频播放器-12章/{9}--第9章如何在Android下使用FFmpeg/[9.7]--9-7编译Android下可使用的ffmpeg「不生成工具链方式.mp4",
+    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/（赠送）FFmpeg5.0打造音视频播放器-12章/{9}--第9章如何在Android下使用FFmpeg/[9.5]--9-5C调Java的方法.mp4",
+    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/（赠送）FFmpeg5.0打造音视频播放器-12章/{9}--第9章如何在Android下使用FFmpeg/[9.6]--9-6编译android下可以使用的ffmpeg「通过生成工具链.mp4",
+    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/（赠送）FFmpeg5.0打造音视频播放器-12章/{9}--第9章如何在Android下使用FFmpeg/[9.3]--9-3Java调用C方法-2.mp4",
+    "02 编程语言学习/python/6.模块.md",
+    "tmp/未命名.md",
     "02 编程语言学习/python/5.函数.md",
-    "02 编程语言学习/C&C++/c++ 编程技巧.md",
-    "02 编程语言学习/python/4.字典.md",
-    "README.md",
-    "02 编程语言学习/C&C++/c++  语法.md",
-    "02 编程语言学习/python/jupyterLab/5.函数.ipynb",
-    "02 编程语言学习/python/jupyterLab/4.字典.ipynb",
-    "02 编程语言学习/python/jupyterLab/3.列表.ipynb",
-    "02 编程语言学习/python/jupyterLab/2.变量.ipynb",
-    "02 编程语言学习/python/jupyterLab/1.基础知识.ipynb",
-    "02 编程语言学习/python/jupyterLab/0.开始前的准备.ipynb",
-    "02 编程语言学习/python/jupyterLab",
-    "02 编程语言学习/python/2.变量.md",
-    "02 编程语言学习/python/jupyterStart.sh",
-    "02 编程语言学习/python/medialiuwh655657a9-165b-475d-873c-1f135878dc45tmp维护笔记obsidian_linux_document02 编程语言学习pythonmd2ipynb.sh.sh",
-    "02 编程语言学习/python/md2ipynb(副本).sh",
+    "tmp/胡思乱想的想法.md",
     "02 编程语言学习/python/1.基础知识.md",
     "02 编程语言学习/python/3.列表.md",
-    "02 编程语言学习/python/0.开始前的准备.md",
+    "02 编程语言学习/python/1.1 系统函数.md",
+    "12 软件设计师学习/02 计算机组成与体系结构.md",
+    "02 编程语言学习/python/4.字典.md",
+    "11 零散的知识/加密算法.md",
+    "tmp/1. 对称加密算法：DES（Data Encryption Standard），3DES（Triple DES），AES（Advanced Encryption Standard）.md",
+    "tmp/5. 密钥交换算法：Diffie-Hellman 密钥交换算法.md",
+    "tmp/4. 数字签名算法：DSA（Digital Signature Algorithm），ECDSA（Elliptic Curve Digital Signature Algorithm）.md",
+    "tmp/3. 哈希函数：MD5（Message Digest Algorithm 5），SHA-1（Secure Hash Algorithm 1），SHA-256，SHA-3.md",
+    "tmp/2. 非对称加密算法：RSA（Rivest-Shamir-Adleman），ECC（Elliptic Curve Cryptography）.md",
     "tmp/test.md",
-    "tmp/Windows网络编程.md",
-    "tmp/围城.md",
-    "tmp/1984.md",
-    "tmp/人体简史.md",
-    "tmp/未来简史：从智人到智神.md",
-    "tmp/Qt中的C++技术.md",
-    "tmp/今日简史：人类命运大议题.md",
-    "tmp/古龙作品大全集（电视剧《欢乐英雄》原著小说）.md",
-    "tmp/奥登诗选：1948-1973（奥登文集）.md",
-    "tmp/程序是怎样跑起来的.md",
-    "tmp/半小时漫画经济学3：金融危机完结篇.md",
-    "tmp/半小时漫画经济学系列（共4册）.md",
-    "tmp/小狗钱钱.md",
-    "tmp/精通Python网络爬虫：核心技术、框架与项目实战.md",
-    "tmp/资治通鉴（最爱读国学系列）.md",
-    "tmp/三体（全集）.md",
+    "10 架构师学习/术语及概念解释.md",
+    "04  操作系统/linux/系统知识/03 磁盘管理.md",
+    "04  操作系统/linux/系统知识/00 帮助手册与关机.md",
+    "04  操作系统/linux/系统编程/03 静态库与共享库.md",
+    "04  操作系统/linux/系统编程/02-1 线程同步.md",
+    "04  操作系统/linux/系统编程/02 线程.md",
+    "04  操作系统/linux/系统编程/01-1 进程通信.md",
     "00 关于本资料库的使用方式/附件/Pasted image 20240307170226.png",
     "00 关于本资料库的使用方式/附件/Pasted image 20240307165036.png",
     "00 关于本资料库的使用方式/附件/20231212135512.png",

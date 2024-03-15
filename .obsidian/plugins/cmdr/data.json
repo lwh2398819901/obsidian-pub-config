@@ -79,12 +79,6 @@
       "mode": "any"
     },
     {
-      "id": "obsidian-shellcommands:shell-command-hkrzgdcq9s",
-      "icon": "file-check-2",
-      "name": "md转jupyter",
-      "mode": "any"
-    },
-    {
       "id": "obsidian-custom-frames:open-custom-frames-b-站",
       "icon": "bold",
       "name": "Custom Frames: Open B 站",
@@ -94,6 +88,30 @@
       "id": "obsidian-shellcommands:shell-command-05jrlw4pcc",
       "icon": "bug",
       "name": "jupyterStart",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-3htt48gkf1",
+      "icon": "locate-off",
+      "name": "jupyterStop",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-hkrzgdcq9s",
+      "icon": "move-horizontal",
+      "name": "md2ipynb",
+      "mode": "any"
+    },
+    {
+      "id": "open-with-default-app:show",
+      "icon": "lucide-files",
+      "name": "在系统资源管理器中显示",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-weread-plugin:sync-weread-notes-command",
+      "icon": "book",
+      "name": "Weread: 同步微信读书笔记",
       "mode": "any"
     }
   ],
