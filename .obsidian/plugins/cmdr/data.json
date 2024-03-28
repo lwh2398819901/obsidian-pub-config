@@ -79,12 +79,6 @@
       "mode": "any"
     },
     {
-      "id": "obsidian-custom-frames:open-custom-frames-b-站",
-      "icon": "bold",
-      "name": "Custom Frames: Open B 站",
-      "mode": "any"
-    },
-    {
       "id": "obsidian-shellcommands:shell-command-05jrlw4pcc",
       "icon": "bug",
       "name": "jupyterStart",

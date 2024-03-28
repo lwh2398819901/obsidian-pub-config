@@ -78,7 +78,7 @@
     },
     "linuxIntegratedDefault": {
       "args": [],
-      "executable": "/bin/sh",
+      "executable": "/usr/bin/fish",
       "name": "",
       "platforms": {
         "linux": true

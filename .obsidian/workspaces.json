@@ -1,1 +1,810 @@
-{}
+{
+  "workspaces": {
+    "单工作区域": {
+      "main": {
+        "id": "091188e6fe3edbeb",
+        "type": "split",
+        "children": [
+          {
+            "id": "7b165038206af219",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9f2773e2760b90c",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6869bc13d25bf318",
+        "type": "split",
+        "children": [
+          {
+            "id": "5656389882422fa3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a4cd0b544a083dbb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fb39189b7facf4ef",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "mitmproxy docker",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "ab2d39e3cdfe0672",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b831ad8cd19997ba",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d11c39e2e237e2e0",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "ca0a536a604a0f30",
+        "type": "split",
+        "children": [
+          {
+            "id": "b7ae3b566f237c9b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "38a947f789d7b22a",
+                "type": "leaf",
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "516011689ed7d326",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "56dbfe0bed9833ff",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 254.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": true,
+          "graph:查看关系图谱": true,
+          "canvas:新建白板": true,
+          "switcher:打开快速切换": true,
+          "daily-notes:打开/创建今天的日记": true,
+          "surfing:surfing-bookmark-manager": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "pkmer:Open Pkmer Market": false,
+          "terminal:Open terminal": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "markdown-table-editor:Open Markdown Table Editor": false,
+          "obsidian-statusbar-pomo:Start pomodoro": true,
+          "obsidian-weread-plugin:同步微信读书笔记": true,
+          "obsidian-file-cleaner:清理文件": false,
+          "cmdr:Commander: 打开 Commander 设置": false,
+          "cmdr:切换实时阅览/源码模式": false,
+          "cmdr:重新加载 Obsidian（不保存当前编辑内容）": false,
+          "cmdr:Weread: 同步微信读书笔记": false,
+          "cmdr:Surfing: 刷新当前页面": false,
+          "cmdr:jupyterStart": false,
+          "cmdr:jupyterStop": false,
+          "cmdr:md2ipynb": false,
+          "cmdr:在系统资源管理器中显示": false,
+          "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+          "media-extended:Open media": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "38a947f789d7b22a"
+    },
+    "双工作区域": {
+      "main": {
+        "id": "091188e6fe3edbeb",
+        "type": "split",
+        "children": [
+          {
+            "id": "7b165038206af219",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9f2773e2760b90c",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "a4d230b66484cf3b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aea36c3aa387a78f",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6869bc13d25bf318",
+        "type": "split",
+        "children": [
+          {
+            "id": "5656389882422fa3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a4cd0b544a083dbb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fb39189b7facf4ef",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "mitmproxy docker",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "ab2d39e3cdfe0672",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b831ad8cd19997ba",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d11c39e2e237e2e0",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "ca0a536a604a0f30",
+        "type": "split",
+        "children": [
+          {
+            "id": "b7ae3b566f237c9b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "38a947f789d7b22a",
+                "type": "leaf",
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "516011689ed7d326",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "56dbfe0bed9833ff",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 254.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": true,
+          "graph:查看关系图谱": true,
+          "canvas:新建白板": true,
+          "switcher:打开快速切换": true,
+          "daily-notes:打开/创建今天的日记": true,
+          "surfing:surfing-bookmark-manager": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "pkmer:Open Pkmer Market": false,
+          "terminal:Open terminal": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "markdown-table-editor:Open Markdown Table Editor": false,
+          "obsidian-statusbar-pomo:Start pomodoro": true,
+          "obsidian-weread-plugin:同步微信读书笔记": true,
+          "obsidian-file-cleaner:清理文件": false,
+          "cmdr:Commander: 打开 Commander 设置": false,
+          "cmdr:切换实时阅览/源码模式": false,
+          "cmdr:重新加载 Obsidian（不保存当前编辑内容）": false,
+          "cmdr:Weread: 同步微信读书笔记": false,
+          "cmdr:Surfing: 刷新当前页面": false,
+          "cmdr:jupyterStart": false,
+          "cmdr:jupyterStop": false,
+          "cmdr:md2ipynb": false,
+          "cmdr:在系统资源管理器中显示": false,
+          "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+          "media-extended:Open media": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "f9f2773e2760b90c"
+    },
+    "三工作区": {
+      "main": {
+        "id": "091188e6fe3edbeb",
+        "type": "split",
+        "children": [
+          {
+            "id": "7b165038206af219",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "88876c6687d24bd5",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "http://localhost:8888/"
+                  }
+                }
+              },
+              {
+                "id": "0d23050859896f03",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "tmp/test 快捷方式/pdf/02 code技巧与设计模式&算法/大话数据结构.pdf"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a4d230b66484cf3b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aea36c3aa387a78f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02 编程语言学习/python/7.类.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6869bc13d25bf318",
+        "type": "split",
+        "children": [
+          {
+            "id": "5656389882422fa3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a4cd0b544a083dbb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fb39189b7facf4ef",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "mitmproxy docker",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "ab2d39e3cdfe0672",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b831ad8cd19997ba",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d11c39e2e237e2e0",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 318.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "ca0a536a604a0f30",
+        "type": "split",
+        "children": [
+          {
+            "id": "b7ae3b566f237c9b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9f2773e2760b90c",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://kimi.moonshot.cn/"
+                  }
+                }
+              },
+              {
+                "id": "38a947f789d7b22a",
+                "type": "leaf",
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "516011689ed7d326",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "56dbfe0bed9833ff",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "6eb78d06a1f70430",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "tmp/test 快捷方式/pdf/02 code技巧与设计模式&算法/大话数据结构.pdf",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "44153f37d60e21a1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "tmp/test 快捷方式/pdf/02 code技巧与设计模式&算法/大话数据结构.pdf",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 553.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": true,
+          "graph:查看关系图谱": true,
+          "canvas:新建白板": true,
+          "switcher:打开快速切换": true,
+          "daily-notes:打开/创建今天的日记": true,
+          "surfing:surfing-bookmark-manager": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "pkmer:Open Pkmer Market": false,
+          "terminal:Open terminal": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "markdown-table-editor:Open Markdown Table Editor": false,
+          "obsidian-statusbar-pomo:Start pomodoro": true,
+          "obsidian-weread-plugin:同步微信读书笔记": true,
+          "obsidian-file-cleaner:清理文件": false,
+          "cmdr:Commander: 打开 Commander 设置": false,
+          "cmdr:切换实时阅览/源码模式": false,
+          "cmdr:重新加载 Obsidian（不保存当前编辑内容）": false,
+          "cmdr:Weread: 同步微信读书笔记": false,
+          "cmdr:Surfing: 刷新当前页面": false,
+          "cmdr:jupyterStart": false,
+          "cmdr:jupyterStop": false,
+          "cmdr:md2ipynb": false,
+          "cmdr:在系统资源管理器中显示": false,
+          "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+          "media-extended:Open media": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "0d23050859896f03"
+    },
+    "三工作区2": {
+      "main": {
+        "id": "091188e6fe3edbeb",
+        "type": "split",
+        "children": [
+          {
+            "id": "7b165038206af219",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "88876c6687d24bd5",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "http://localhost:8888/"
+                  }
+                }
+              },
+              {
+                "id": "0d23050859896f03",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "tmp/test 快捷方式/pdf/02 code技巧与设计模式&算法/大话数据结构.pdf"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "f0323871d774a73f",
+            "type": "split",
+            "children": [
+              {
+                "id": "a4d230b66484cf3b",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "aea36c3aa387a78f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02 编程语言学习/python/7.类.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "2c133082ec69a458",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f9f2773e2760b90c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "surfing-view",
+                      "state": {
+                        "url": "https://kimi.moonshot.cn/"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6869bc13d25bf318",
+        "type": "split",
+        "children": [
+          {
+            "id": "5656389882422fa3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a4cd0b544a083dbb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fb39189b7facf4ef",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "mitmproxy docker",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "ab2d39e3cdfe0672",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b831ad8cd19997ba",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d11c39e2e237e2e0",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "ca0a536a604a0f30",
+        "type": "split",
+        "children": [
+          {
+            "id": "b7ae3b566f237c9b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "38a947f789d7b22a",
+                "type": "leaf",
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "516011689ed7d326",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "56dbfe0bed9833ff",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "6eb78d06a1f70430",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02 编程语言学习/python/7.类.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "44153f37d60e21a1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "02 编程语言学习/python/7.类.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": true,
+          "graph:查看关系图谱": true,
+          "canvas:新建白板": true,
+          "switcher:打开快速切换": true,
+          "daily-notes:打开/创建今天的日记": true,
+          "surfing:surfing-bookmark-manager": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "pkmer:Open Pkmer Market": false,
+          "terminal:Open terminal": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "markdown-table-editor:Open Markdown Table Editor": false,
+          "obsidian-statusbar-pomo:Start pomodoro": true,
+          "obsidian-weread-plugin:同步微信读书笔记": true,
+          "obsidian-file-cleaner:清理文件": false,
+          "cmdr:Commander: 打开 Commander 设置": false,
+          "cmdr:切换实时阅览/源码模式": false,
+          "cmdr:重新加载 Obsidian（不保存当前编辑内容）": false,
+          "cmdr:Weread: 同步微信读书笔记": false,
+          "cmdr:Surfing: 刷新当前页面": false,
+          "cmdr:jupyterStart": false,
+          "cmdr:jupyterStop": false,
+          "cmdr:md2ipynb": false,
+          "cmdr:在系统资源管理器中显示": false,
+          "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+          "media-extended:Open media": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "aea36c3aa387a78f"
+    }
+  },
+  "active": "三工作区2"
+}

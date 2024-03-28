@@ -22,7 +22,7 @@
   "showRefreshButton": true,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
-  "useWebview": false,
+  "useWebview": true,
   "useIconList": true,
   "darkMode": false,
   "randomBackground": false,
@@ -44,8 +44,53 @@
       "modified",
       "action"
     ],
-    "defaultFilterType": "tree"
+    "defaultFilterType": "menu"
   },
-  "treeData": [],
+  "treeData": [
+    {
+      "id": "32d66740092563eb",
+      "parent": 0,
+      "droppable": true,
+      "text": "5、Docker中的名词概念_哔哩哔哩_bilibili",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "8ebe1a8b25e5fbce",
+      "parent": 0,
+      "droppable": true,
+      "text": "Kimi.ai - 帮你看更大的世界",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "9d669c8efe4dbc9a",
+      "parent": 0,
+      "droppable": true,
+      "text": "Docker Docs",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "35f8bfae4b4d91d7",
+      "parent": 0,
+      "droppable": true,
+      "text": "Docker 教程 | 菜鸟教程",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
   "enableHtmlPreview": true
 }

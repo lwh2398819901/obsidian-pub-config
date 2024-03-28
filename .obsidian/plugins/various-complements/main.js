@@ -3896,13 +3896,16 @@ var AutoCompleteSuggest = class _AutoCompleteSuggest extends import_obsidian5.Ed
     this.appHelper = new AppHelper(app2);
     this.statusBar = statusBar;
   }
-  triggerComplete() {
+  triggerComplete(opt) {
     const editor = this.appHelper.getCurrentEditor();
     const activeFile = this.app.workspace.getActiveFile();
     if (!editor || !activeFile) {
       return;
     }
     this.runManually = true;
+    if (opt == null ? void 0 : opt.fallbackLinkify) {
+      this.fallbackLinkify = true;
+    }
     this.trigger(editor, activeFile, true);
   }
   hideCompletion() {
@@ -4095,6 +4098,18 @@ var AutoCompleteSuggest = class _AutoCompleteSuggest extends import_obsidian5.Ed
         const start = performance.now();
         this.showDebugLog(() => `[context.query]: ${context.query}`);
         const parsedQuery = JSON.parse(context.query);
+        if (parsedQuery.fallbackLinkify) {
+          cb(
+            parsedQuery.queries.slice().reverse().filter((q) => q.word.length >= this.minNumberTriggered).map((q) => ({
+              value: q.word,
+              createdPath: "FIXME: ",
+              type: "internalLink",
+              phantom: true,
+              offset: q.offset
+            }))
+          );
+          return;
+        }
         const words = parsedQuery.queries.filter(
           (x, i, xs) => parsedQuery.currentFrontMatter || this.settings.minNumberOfWordsTriggeredPhrase + i - 1 < xs.length && x.word.length >= this.minNumberTriggered && !x.word.endsWith(" ")
         ).map((q) => {
@@ -4390,6 +4405,7 @@ var AutoCompleteSuggest = class _AutoCompleteSuggest extends import_obsidian5.Ed
     const onReturnNull = (message) => {
       showDebugLog(message);
       this.runManually = false;
+      this.fallbackLinkify = false;
       this.close();
     };
     if (!this.settings.complementAutomatically && !this.isOpen && !this.runManually) {
@@ -4485,7 +4501,7 @@ var AutoCompleteSuggest = class _AutoCompleteSuggest extends import_obsidian5.Ed
     );
     if (suppressedTokens.length === 0) {
       onReturnNull(
-        `Don't show suggestions because all tokens are ignored by token pattern: ${String.raw`^[\u3040-\u309F\u30A0-\u30FF]{1,2}$`}`
+        "Don't show suggestions because all tokens are ignored by token pattern"
       );
       return null;
     }
@@ -4494,6 +4510,8 @@ var AutoCompleteSuggest = class _AutoCompleteSuggest extends import_obsidian5.Ed
       currentTokens.push({ word: "", offset: currentLineUntilCursor.length });
     }
     this.contextStartCh = cursor.ch - currentPhrase.length;
+    const fallbackLinkify = this.fallbackLinkify;
+    this.fallbackLinkify = false;
     return {
       start: {
         ch: cursor.ch - ((_e = (_d = (_c = currentTokens.last()) == null ? void 0 : _c.word) == null ? void 0 : _d.length) != null ? _e : 0),
@@ -4503,6 +4521,7 @@ var AutoCompleteSuggest = class _AutoCompleteSuggest extends import_obsidian5.Ed
       end: cursor,
       query: JSON.stringify({
         currentFrontMatter,
+        fallbackLinkify,
         queries: suppressedTokens.map((x) => ({
           ...x,
           offset: x.offset - currentTokens[0].offset
@@ -4998,7 +5017,7 @@ var VariousComplementsSettingTab = class extends import_obsidian7.PluginSettingT
         await this.plugin.saveSettings();
       });
     });
-    new import_obsidian7.Setting(containerEl).setName("Disable suggestions in the Math block.").setDesc("It doesn't support the inline Math block.").addToggle((tc) => {
+    new import_obsidian7.Setting(containerEl).setName("Disable suggestions in the Math block").setDesc("It doesn't support the inline Math block.").addToggle((tc) => {
       tc.setValue(
         this.plugin.settings.disableSuggestionsInMathBlock
       ).onChange(async (value) => {
@@ -7858,6 +7877,13 @@ var VariousComponents = class extends import_obsidian9.Plugin {
       name: "Hide suggestions",
       callback: async () => {
         this.suggester.hideCompletion();
+      }
+    });
+    this.addCommand({
+      id: "fallback-linkify",
+      name: "Fallback linkify",
+      callback: async () => {
+        this.suggester.triggerComplete({ fallbackLinkify: true });
       }
     });
     this.addCommand({

@@ -4,20 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d0dbbb82bdfba2ae",
-        "type": "tabs",
+        "id": "01ce6598ad524c03",
+        "type": "split",
         "children": [
           {
-            "id": "46c011f918a68491",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "tmp/附件/Pasted image 20231221124018.png"
+            "id": "7b165038206af219",
+            "type": "tabs",
+            "dimension": 74.7005988023952,
+            "children": [
+              {
+                "id": "a354f91429b5b9d9",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "tmp/test 快捷方式/pdf/03 通用工具/docker/Docker容器学习笔记全（狂神说Java）.pdf"
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "5b03252234b5566e",
+            "type": "tabs",
+            "dimension": 25.299401197604794,
+            "children": [
+              {
+                "id": "838394bee4c542aa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01 实用工具/开箱即用的工具/【container】docker.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -46,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pop",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 624.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca0a536a604a0f30",
@@ -93,47 +121,6 @@
         "id": "b7ae3b566f237c9b",
         "type": "tabs",
         "children": [
-          {
-            "id": "fd79cafaae8da78f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 编程语言学习/python/7.类.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cdff153513c95c1e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "tmp/附件/Pasted image 20231221124018.png",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9ee3a16ddb4f9b62",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "tmp/附件/Pasted image 20231221124018.png",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "38a947f789d7b22a",
             "type": "leaf",
@@ -160,12 +147,42 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "6eb78d06a1f70430",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tmp/test 快捷方式/pdf/03 通用工具/docker/Docker容器学习笔记全（狂神说Java）.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44153f37d60e21a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tmp/test 快捷方式/pdf/03 通用工具/docker/Docker容器学习笔记全（狂神说Java）.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +199,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-statusbar-pomo:Start pomodoro": true,
-      "media-extended:Open media": true,
       "obsidian-weread-plugin:同步微信读书笔记": true,
       "obsidian-file-cleaner:清理文件": false,
       "cmdr:Commander: 打开 Commander 设置": false,
@@ -190,58 +206,62 @@
       "cmdr:重新加载 Obsidian（不保存当前编辑内容）": false,
       "cmdr:Weread: 同步微信读书笔记": false,
       "cmdr:Surfing: 刷新当前页面": false,
-      "cmdr:Custom Frames: Open B 站": false,
       "cmdr:jupyterStart": false,
       "cmdr:jupyterStop": false,
       "cmdr:md2ipynb": false,
-      "cmdr:在系统资源管理器中显示": false
+      "cmdr:在系统资源管理器中显示": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "media-extended:Open media": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "46c011f918a68491",
+  "active": "a354f91429b5b9d9",
   "lastOpenFiles": [
-    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/Media Note - 1-3 音视频小白自学的困惑.md",
-    "tmp/附件/Pasted image 20231221124018.png",
-    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/1-13 数字电视基础.mp4",
-    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/1-3 音视频小白自学的困惑.mp4",
-    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/1-2 5G+音视频到底是什么？.mp4",
+    "01 实用工具/开箱即用的工具/【container】docker.md",
+    "tmp/test 快捷方式/pdf/03 通用工具/docker/Docker容器学习笔记全（狂神说Java）.pdf",
+    "01 实用工具/开箱即用的工具/附件/db87cece39cba9ae0d57764a17f46e5d_MD5.jpeg",
+    "01 实用工具/开箱即用的工具/附件/Pasted image 20240326141257.png",
+    "01 实用工具/开箱即用的工具/附件/Pasted image 20240326141256 1.png",
+    "01 实用工具/开箱即用的工具/附件/Pasted image 20240326141256.png",
+    "01 实用工具/需要部署的工具/【watch】lepus监控mysql简单示例.md",
+    "tmp/test 快捷方式/pdf/02 code技巧与设计模式&算法/大话数据结构.pdf",
     "02 编程语言学习/python/7.类.md",
-    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/01第一阶段：  FFmpeg小白入门/02[25023]_FFmpeg4.3开发系列之二：音视频基础理论_梅会东-99/第1章 音视频小白入门经典/1-1 福优学苑--简历包装与面试技巧.mp4",
-    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/（赠送）FFmpeg5.0打造音视频播放器-12章/{1}--第1章学习指南【课程提供200+问题与答案库】/[1.1]--1-2FFmpeg5.0-课程导学.mp4",
-    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/（赠送）FFmpeg5.0打造音视频播放器-12章/{9}--第9章如何在Android下使用FFmpeg/[9.8]--9-8实战-Android下的播放器.mp4",
-    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/（赠送）FFmpeg5.0打造音视频播放器-12章/{9}--第9章如何在Android下使用FFmpeg/[9.7]--9-7编译Android下可使用的ffmpeg「不生成工具链方式.mp4",
-    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/（赠送）FFmpeg5.0打造音视频播放器-12章/{9}--第9章如何在Android下使用FFmpeg/[9.5]--9-5C调Java的方法.mp4",
-    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/（赠送）FFmpeg5.0打造音视频播放器-12章/{9}--第9章如何在Android下使用FFmpeg/[9.6]--9-6编译android下可以使用的ffmpeg「通过生成工具链.mp4",
-    "tmp/test 快捷方式/mp4/08 音视频资料/音视频/（赠送）FFmpeg5.0打造音视频播放器-12章/{9}--第9章如何在Android下使用FFmpeg/[9.3]--9-3Java调用C方法-2.mp4",
-    "02 编程语言学习/python/6.模块.md",
+    "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/Media Note - 26网络管理.md",
     "tmp/未命名.md",
-    "02 编程语言学习/python/5.函数.md",
     "tmp/胡思乱想的想法.md",
-    "02 编程语言学习/python/1.基础知识.md",
-    "02 编程语言学习/python/3.列表.md",
-    "02 编程语言学习/python/1.1 系统函数.md",
-    "12 软件设计师学习/02 计算机组成与体系结构.md",
-    "02 编程语言学习/python/4.字典.md",
-    "11 零散的知识/加密算法.md",
-    "tmp/1. 对称加密算法：DES（Data Encryption Standard），3DES（Triple DES），AES（Advanced Encryption Standard）.md",
-    "tmp/5. 密钥交换算法：Diffie-Hellman 密钥交换算法.md",
-    "tmp/4. 数字签名算法：DSA（Digital Signature Algorithm），ECDSA（Elliptic Curve Digital Signature Algorithm）.md",
-    "tmp/3. 哈希函数：MD5（Message Digest Algorithm 5），SHA-1（Secure Hash Algorithm 1），SHA-256，SHA-3.md",
-    "tmp/2. 非对称加密算法：RSA（Rivest-Shamir-Adleman），ECC（Elliptic Curve Cryptography）.md",
     "tmp/test.md",
-    "10 架构师学习/术语及概念解释.md",
-    "04  操作系统/linux/系统知识/03 磁盘管理.md",
-    "04  操作系统/linux/系统知识/00 帮助手册与关机.md",
-    "04  操作系统/linux/系统编程/03 静态库与共享库.md",
-    "04  操作系统/linux/系统编程/02-1 线程同步.md",
-    "04  操作系统/linux/系统编程/02 线程.md",
-    "04  操作系统/linux/系统编程/01-1 进程通信.md",
-    "00 关于本资料库的使用方式/附件/Pasted image 20240307170226.png",
-    "00 关于本资料库的使用方式/附件/Pasted image 20240307165036.png",
-    "00 关于本资料库的使用方式/附件/20231212135512.png",
-    "00 关于本资料库的使用方式/附件/设置自定义样式.png",
-    "Pasted image 20240307134645.png",
-    "Pasted image 20240307131859.png",
-    "Pasted image 20240307131035.png",
+    "tmp/chatgpt网站.md",
+    "tmp/附件/475c25ca57ef285168a5949d7db1f3de_MD5.jpeg",
+    "tmp/附件/Pasted image 20240326113230.png",
+    "tmp/附件/41856570e8bb305937d99119c57b6040_MD5.jpeg",
+    "tmp/附件/Pasted image 20240326112837.png",
+    "tmp/附件/d642046d199ef204c26c779fb1ddf4b8_MD5.jpeg",
+    "tmp/附件/Pasted image 20240326112719.png",
+    "tmp/favorites_2024_3_26.html",
+    "08 网络知识/计算机网络/中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程.md",
+    "tmp/test 快捷方式/pdf/01 网络/计算机网络-郑老师ppt/计算机网络-郑老师-第8章.pdf",
+    "tmp/test 快捷方式/pdf/01 网络/计算机网络-郑老师ppt/计算机网络-郑老师-第1章.pdf",
+    "08 网络知识/名词及术语解释.md",
+    "08 网络知识/中间人攻击.md",
+    "01 实用工具/开箱即用的工具/【debug】mitmproxy(中间人攻击).md",
+    "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
+    "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/28修改网络配置.mp4",
+    "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/27查看网络配置.mp4",
+    "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/26网络管理.mp4",
+    "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/附件",
+    "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/23.mp4",
+    "02 编程语言学习/python/2.变量.md",
+    "02 编程语言学习/python/1.基础知识.md",
+    "02 编程语言学习/python/0.开始前的准备.md",
+    "02 编程语言学习/python/1.1 系统函数.md",
+    "02 编程语言学习/python/5.函数.md",
+    "Python基础语法：从入门到精通的必备指南 - 知乎.md",
+    "02 编程语言学习/python/6.模块.md",
+    "01 实用工具/开箱即用的工具/【CodeBuild]】git.md",
+    "tmp/test 快捷方式/md/08 音视频资料/2022年最新音视频资料分享/06-AndroidNDK开发/AndroidNDK开发md/07-OpenGL ES 基本概念.md",
+    "06 数据库/redis/00 redis安装与介绍.md",
+    "tmp/test 快捷方式/md/03 通用工具/Mitmproxy/mitmproxy 使用(3).md",
+    "tmp/test 快捷方式/md/01 网络/pdf/source_code/head-first-ajax-code/README.md",
     "测试/未命名.canvas"
   ]
 }

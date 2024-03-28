@@ -1,6 +1,18 @@
 {
   "bookmarks": [
     {
+      "id": "1307082721",
+      "name": "微信读书-正版书籍小说免费阅读",
+      "url": "https://weread.qq.com/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1710807204157,
+      "modified": 1710807204157
+    },
+    {
       "id": "1826497334",
       "name": "JupyterLab",
       "url": "http://localhost:8888/",

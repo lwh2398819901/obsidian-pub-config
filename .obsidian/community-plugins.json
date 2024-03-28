@@ -18,15 +18,15 @@
   "mousewheel-image-zoom",
   "obsidian-image-toolkit",
   "obsidian-statusbar-pomo",
-  "obsidian-custom-frames",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
   "terminal",
-  "mx-bili-plugin",
-  "media-extended",
   "convert-url-to-iframe",
   "obsidian-git",
   "editing-toolbar",
   "obsidian-weread-plugin",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "obsidian-local-images-plus",
+  "media-extended",
+  "mx-bili-plugin"
 ]
