@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Docker容器学习笔记全（狂神说Java）",
-      "path": "tmp/test 快捷方式/pdf/03 通用工具/docker/Docker容器学习笔记全（狂神说Java）.pdf"
+      "basename": "【CodeBuild]】git",
+      "path": "01 实用工具/开箱即用的工具/【CodeBuild]】git.md"
+    },
+    {
+      "basename": "1.1 系统函数",
+      "path": "02 编程语言学习/python/1.1 系统函数.md"
+    },
+    {
+      "basename": "5.函数",
+      "path": "02 编程语言学习/python/5.函数.md"
+    },
+    {
+      "basename": "【CodeBuild]】vim",
+      "path": "01 实用工具/开箱即用的工具/【CodeBuild]】vim.md"
+    },
+    {
+      "basename": "胡思乱想的想法",
+      "path": "tmp/胡思乱想的想法.md"
+    },
+    {
+      "basename": "7.类",
+      "path": "02 编程语言学习/python/7.类.md"
     },
     {
       "basename": "【container】docker",
       "path": "01 实用工具/开箱即用的工具/【container】docker.md"
+    },
+    {
+      "basename": "Drawing 2024-03-29 11.56.13.excalidraw",
+      "path": "Excalidraw/Drawing 2024-03-29 11.56.13.excalidraw.md"
     },
     {
       "basename": "db87cece39cba9ae0d57764a17f46e5d_MD5",
@@ -21,20 +45,12 @@
       "path": "tmp/test 快捷方式/pdf/02 code技巧与设计模式&算法/大话数据结构.pdf"
     },
     {
-      "basename": "7.类",
-      "path": "02 编程语言学习/python/7.类.md"
-    },
-    {
       "basename": "Media Note - 26网络管理",
       "path": "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/Media Note - 26网络管理.md"
     },
     {
       "basename": "未命名",
       "path": "tmp/未命名.md"
-    },
-    {
-      "basename": "胡思乱想的想法",
-      "path": "tmp/胡思乱想的想法.md"
     },
     {
       "basename": "test",
@@ -93,10 +109,6 @@
       "path": "00 关于本资料库的使用方式/关于本资料库的使用方式.md"
     },
     {
-      "basename": "28修改网络配置",
-      "path": "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/28修改网络配置.mp4"
-    },
-    {
       "basename": "27查看网络配置",
       "path": "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/27查看网络配置.mp4"
     },
@@ -137,16 +149,8 @@
       "path": "02 编程语言学习/python/0.开始前的准备.md"
     },
     {
-      "basename": "1.1 系统函数",
-      "path": "02 编程语言学习/python/1.1 系统函数.md"
-    },
-    {
       "basename": "78a9f29182e8d4b6667c9ee76ebe3b33_MD5",
       "path": "02 编程语言学习/python/附件/78a9f29182e8d4b6667c9ee76ebe3b33_MD5.webp"
-    },
-    {
-      "basename": "5.函数",
-      "path": "02 编程语言学习/python/5.函数.md"
     },
     {
       "basename": "6.模块",
@@ -159,10 +163,6 @@
     {
       "basename": "GIT官方手册中文版",
       "path": "tmp/test 快捷方式/pdf/03 通用工具/git&svn/GIT官方手册中文版.pdf"
-    },
-    {
-      "basename": "【CodeBuild]】git",
-      "path": "01 实用工具/开箱即用的工具/【CodeBuild]】git.md"
     },
     {
       "basename": "00 redis安装与介绍",
@@ -195,10 +195,6 @@
     {
       "basename": "1. 演进、环境与资源",
       "path": "tmp/test 快捷方式/mp4/00 编程语言/C&Cxx/cxx视频&音频/c++11-14/1. 演进、环境与资源.mp4"
-    },
-    {
-      "basename": "[Linux.环境C程序设计].徐诚.扫描版[小电驴www.XiaoDianLv.com]",
-      "path": "tmp/test 快捷方式/pdf/06 linux/pdf/[Linux.环境C程序设计].徐诚.扫描版[小电驴www.XiaoDianLv.com].pdf"
     }
   ],
   "omittedPaths": [],
