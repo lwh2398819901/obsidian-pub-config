@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b85ce25ac9e0b21f",
+        "id": "34974af380f42fa6",
         "type": "tabs",
         "children": [
           {
-            "id": "0bba61905dcb566f",
+            "id": "b62f77619ec7b5dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "pkmer-downloader",
               "state": {}
             }
+          },
+          {
+            "id": "e04a81106ddf9f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,12 +90,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 364.5
   },
   "right": {
     "id": "ca0a536a604a0f30",
@@ -125,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,106 +154,106 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "676114ad6d779bbd",
+            "id": "12cea47a22b4f669",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 611.5
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": true,
-      "graph:查看关系图谱": true,
-      "canvas:新建白板": true,
-      "switcher:打开快速切换": true,
-      "daily-notes:打开/创建今天的日记": true,
-      "surfing:surfing-bookmark-manager": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": true,
-      "pkmer:Open Pkmer Market": false,
-      "terminal:Open terminal": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-statusbar-pomo:Start pomodoro": true,
-      "obsidian-weread-plugin:同步微信读书笔记": true,
-      "obsidian-file-cleaner:清理文件": false,
       "cmdr:Commander: 打开 Commander 设置": false,
       "cmdr:切换实时阅览/源码模式": false,
       "cmdr:重新加载 Obsidian（不保存当前编辑内容）": false,
-      "cmdr:Weread: 同步微信读书笔记": true,
       "cmdr:Surfing: 刷新当前页面": false,
       "cmdr:jupyterStart": false,
       "cmdr:jupyterStop": false,
       "cmdr:md2ipynb": false,
       "cmdr:在系统资源管理器中显示": false,
+      "cmdr:Weread: 同步微信读书笔记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "graph:查看关系图谱": true,
+      "canvas:新建白板": true,
+      "switcher:打开快速切换": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "workspaces:管理工作区布局": false,
+      "pkmer:Open Pkmer Market": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "surfing:surfing-bookmark-manager": true,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-file-cleaner:清理文件": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": true,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
       "media-extended:Open media": false,
-      "workspaces:管理工作区布局": false,
       "copilot:Copilot Chat": false
     }
   },
-  "active": "0bba61905dcb566f",
+  "active": "e04a81106ddf9f1b",
   "lastOpenFiles": [
-    "01 实用工具/开箱即用的工具/【CodeBuild]】git.md",
-    "02 编程语言学习/python/1.1 系统函数.md",
-    "02 编程语言学习/python/5.函数.md",
-    "01 实用工具/开箱即用的工具/【CodeBuild]】vim.md",
-    "tmp/胡思乱想的想法.md",
-    "02 编程语言学习/python/7.类.md",
-    "01 实用工具/开箱即用的工具/【container】docker.md",
-    "Excalidraw/Drawing 2024-03-29 11.56.13.excalidraw.md",
-    "Excalidraw",
-    "tmp/test 快捷方式/pdf/03 通用工具/docker/Docker容器学习笔记全（狂神说Java）.pdf",
-    "01 实用工具/开箱即用的工具/附件/db87cece39cba9ae0d57764a17f46e5d_MD5.jpeg",
-    "01 实用工具/开箱即用的工具/附件/Pasted image 20240326141257.png",
-    "01 实用工具/开箱即用的工具/附件/Pasted image 20240326141256 1.png",
-    "01 实用工具/开箱即用的工具/附件/Pasted image 20240326141256.png",
-    "01 实用工具/需要部署的工具/【watch】lepus监控mysql简单示例.md",
-    "tmp/test 快捷方式/pdf/02 code技巧与设计模式&算法/大话数据结构.pdf",
-    "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/Media Note - 26网络管理.md",
-    "tmp/未命名.md",
+    "01 实用工具/浏览器插件/【all】通用插件推荐.md",
+    "01 实用工具/开箱即用的工具/【CodeBuild]】cmake.md",
     "tmp/test.md",
+    "tmp/未命名.md",
     "tmp/chatgpt网站.md",
-    "tmp/附件/475c25ca57ef285168a5949d7db1f3de_MD5.jpeg",
-    "tmp/附件/Pasted image 20240326113230.png",
-    "tmp/附件/41856570e8bb305937d99119c57b6040_MD5.jpeg",
-    "tmp/附件/Pasted image 20240326112837.png",
+    "tmp/胡思乱想的想法.md",
+    "Excalidraw/Drawing 2024-03-29 11.56.13.excalidraw.md",
+    "01 实用工具/需要部署的工具/【watch】prometheus+grafana监控mysql.md",
+    "tmp/附件/ec5b95fc9dc3ed2a4930d4b7803f5ca.jpg",
     "tmp/附件/d642046d199ef204c26c779fb1ddf4b8_MD5.jpeg",
-    "tmp/附件/Pasted image 20240326112719.png",
-    "tmp/favorites_2024_3_26.html",
+    "tmp/附件/b8e1e6bbda74b5c577da1657ab52904.jpg",
+    "tmp/附件/Pasted image 20231221124117.png",
+    "tmp/附件/Pasted image 20231221124038.png",
+    "tmp/附件/Pasted image 20231221124018.png",
+    "tmp/附件/9f51112bce67812f4af0881a98468b1.jpg",
+    "tmp/附件/8d7ffdcdcb05e52f5107349cb0a41214_MD5.jpeg",
+    "tmp/附件/53c76d4cd331f74eab384cedc9a11641_MD5.jpeg",
+    "tmp/附件/279d9dce2ccb77df735f672c2a804d74_MD5.jpeg",
+    "tmp/附件",
+    "tmp/test 快捷方式/pdf/07 windows/tools/工作用软件/电气CAD/AutoCAD_Electrical_2015_Simplified_Chinese_Win_64bit_dlm/x64/acade/Program Files/Root/Help",
+    "tmp/test 快捷方式/pdf/07 windows/tools/工作用软件/AUTOCAD/AutoCAD_2014_Simplified_Chinese_Win_64bit_dlm/x64/acad/Program Files/Root/Help",
+    "tmp/test 快捷方式/mp4/07 windows/tools/工作用软件/电气CAD/AutoCAD 2015/Acade/Support/zh-CN/WelcomeScreen/video",
+    "tmp/test 快捷方式/mp4/00 编程语言/C&Cxx/cxx视频&音频/零基础自学C/第一阶段 - 玩转C语言（新版）/01_C语言基础/C学习视频/第一天/第1天/3-视频",
+    "tmp/test 快捷方式/pdf/07 windows/tools/工作用软件/电气CAD/AutoCAD_Electrical_2015_Simplified_Chinese_Win_64bit_dlm/x64/acade/Program Files/Root",
+    "tmp/test 快捷方式/pdf/07 windows/tools/工作用软件/AUTOCAD/AutoCAD_2014_Simplified_Chinese_Win_64bit_dlm/x64/acad/Program Files/Root",
+    "tmp/test 快捷方式/pdf/07 windows/tools/Tools/Packers/WinLicense_x32_x64_v2.3.7.0/WinlicenseSDK/Include/C/Via ASM module",
+    "tmp/test 快捷方式/pdf/07 windows/tools/Tools/Packers/Themida_x32_x64_v2.3.7.0/ThemidaSDK/Include/C/Via ASM module",
+    "tmp/test 快捷方式/pdf/00 编程语言/C&Cxx/QT/QT/第一阶段 QT编程基础之C++/00.C++脱产培训视频教程 9部分/9 配套课件/[www.17zixueba.com]unix环境高级编程/[www.17zixueba.com]unix基础",
+    "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/Media Note - 26网络管理.md",
+    "问题集/问题集.md",
+    "12 软件设计师学习/09 法律法规.md",
+    "12 软件设计师学习/06 信息系统安全属性.md",
+    "12 软件设计师学习/05 网络.md",
+    "12 软件设计师学习/02 计算机组成与体系结构.md",
+    "11 零散的知识/分享网络.md",
+    "11 零散的知识/术语及概念解释.md",
+    "11 零散的知识/如何搜索（查找资料）.md",
+    "11 零散的知识/奇怪的操作.md",
+    "11 零散的知识/附件/网络结构.md",
+    "11 零散的知识/附件/电脑连接.md",
+    "11 零散的知识/加密算法.md",
+    "10 架构师学习/术语及概念解释.md",
     "08 网络知识/计算机网络/中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程.md",
-    "tmp/test 快捷方式/pdf/01 网络/计算机网络-郑老师ppt/计算机网络-郑老师-第8章.pdf",
-    "tmp/test 快捷方式/pdf/01 网络/计算机网络-郑老师ppt/计算机网络-郑老师-第1章.pdf",
+    "08 网络知识/网络协议.md",
+    "08 网络知识/硬件设备.md",
     "08 网络知识/名词及术语解释.md",
-    "08 网络知识/中间人攻击.md",
-    "01 实用工具/开箱即用的工具/【debug】mitmproxy(中间人攻击).md",
-    "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
-    "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/28修改网络配置.mp4",
-    "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/27查看网络配置.mp4",
-    "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/26网络管理.mp4",
-    "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/附件",
-    "02 编程语言学习/python/2.变量.md",
-    "02 编程语言学习/python/1.基础知识.md",
-    "02 编程语言学习/python/0.开始前的准备.md",
-    "Python基础语法：从入门到精通的必备指南 - 知乎.md",
-    "02 编程语言学习/python/6.模块.md",
-    "tmp/test 快捷方式/md/08 音视频资料/2022年最新音视频资料分享/06-AndroidNDK开发/AndroidNDK开发md/07-OpenGL ES 基本概念.md",
-    "06 数据库/redis/00 redis安装与介绍.md",
-    "tmp/test 快捷方式/md/03 通用工具/Mitmproxy/mitmproxy 使用(3).md",
     "测试/未命名.canvas"
   ]
 }

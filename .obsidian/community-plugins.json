@@ -6,7 +6,6 @@
   "recent-files-obsidian",
   "surfing",
   "obsidian-mindmap-nextgen",
-  "cmdr",
   "obsidian-icons-plugin",
   "obsidian-icon-folder",
   "obsidian-file-color",
@@ -22,12 +21,13 @@
   "obsidian-excalidraw-plugin",
   "terminal",
   "convert-url-to-iframe",
-  "obsidian-git",
   "editing-toolbar",
   "obsidian-weread-plugin",
-  "obsidian-shellcommands",
   "obsidian-local-images-plus",
   "media-extended",
   "mx-bili-plugin",
-  "copilot"
+  "copilot",
+  "cmdr",
+  "obsidian-shellcommands",
+  "obsidian-git"
 ]

@@ -25,12 +25,12 @@
     "iconInFrontmatterEnabled": true,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true
   },
   "00 关于本资料库的使用方式": {
     "iconName": "OcAccessibilityInset16",
     "iconColor": "#30bb53"
   },
-  "01 实用工具": "🧰",
-  "02 编程语言学习": "😀"
+  "01 实用工具": "🧰"
 }

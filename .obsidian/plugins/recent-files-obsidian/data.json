@@ -1,200 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "【CodeBuild]】git",
-      "path": "01 实用工具/开箱即用的工具/【CodeBuild]】git.md"
-    },
-    {
-      "basename": "1.1 系统函数",
-      "path": "02 编程语言学习/python/1.1 系统函数.md"
-    },
-    {
-      "basename": "5.函数",
-      "path": "02 编程语言学习/python/5.函数.md"
-    },
-    {
-      "basename": "【CodeBuild]】vim",
-      "path": "01 实用工具/开箱即用的工具/【CodeBuild]】vim.md"
-    },
-    {
-      "basename": "胡思乱想的想法",
-      "path": "tmp/胡思乱想的想法.md"
-    },
-    {
-      "basename": "7.类",
-      "path": "02 编程语言学习/python/7.类.md"
-    },
-    {
-      "basename": "【container】docker",
-      "path": "01 实用工具/开箱即用的工具/【container】docker.md"
-    },
-    {
-      "basename": "Drawing 2024-03-29 11.56.13.excalidraw",
-      "path": "Excalidraw/Drawing 2024-03-29 11.56.13.excalidraw.md"
-    },
-    {
-      "basename": "db87cece39cba9ae0d57764a17f46e5d_MD5",
-      "path": "01 实用工具/开箱即用的工具/附件/db87cece39cba9ae0d57764a17f46e5d_MD5.jpeg"
-    },
-    {
-      "basename": "【watch】lepus监控mysql简单示例",
-      "path": "01 实用工具/需要部署的工具/【watch】lepus监控mysql简单示例.md"
-    },
-    {
-      "basename": "大话数据结构",
-      "path": "tmp/test 快捷方式/pdf/02 code技巧与设计模式&算法/大话数据结构.pdf"
-    },
-    {
-      "basename": "Media Note - 26网络管理",
-      "path": "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/Media Note - 26网络管理.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "tmp/未命名.md"
-    },
-    {
-      "basename": "test",
-      "path": "tmp/test.md"
-    },
-    {
-      "basename": "chatgpt网站",
-      "path": "tmp/chatgpt网站.md"
-    },
-    {
-      "basename": "Pasted image 20231221124038",
-      "path": "tmp/附件/Pasted image 20231221124038.png"
-    },
-    {
-      "basename": "b8e1e6bbda74b5c577da1657ab52904",
-      "path": "tmp/附件/b8e1e6bbda74b5c577da1657ab52904.jpg"
-    },
-    {
-      "basename": "53c76d4cd331f74eab384cedc9a11641_MD5",
-      "path": "tmp/附件/53c76d4cd331f74eab384cedc9a11641_MD5.jpeg"
-    },
-    {
-      "basename": "9f51112bce67812f4af0881a98468b1",
-      "path": "tmp/附件/9f51112bce67812f4af0881a98468b1.jpg"
-    },
-    {
-      "basename": "8d7ffdcdcb05e52f5107349cb0a41214_MD5",
-      "path": "tmp/附件/8d7ffdcdcb05e52f5107349cb0a41214_MD5.jpeg"
-    },
-    {
-      "basename": "中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程",
-      "path": "08 网络知识/计算机网络/中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程.md"
-    },
-    {
-      "basename": "计算机网络-郑老师-第8章",
-      "path": "tmp/test 快捷方式/pdf/01 网络/计算机网络-郑老师ppt/计算机网络-郑老师-第8章.pdf"
-    },
-    {
-      "basename": "计算机网络-郑老师-第1章",
-      "path": "tmp/test 快捷方式/pdf/01 网络/计算机网络-郑老师ppt/计算机网络-郑老师-第1章.pdf"
-    },
-    {
-      "basename": "名词及术语解释",
-      "path": "08 网络知识/名词及术语解释.md"
-    },
-    {
-      "basename": "中间人攻击",
-      "path": "08 网络知识/中间人攻击.md"
-    },
-    {
-      "basename": "【debug】mitmproxy(中间人攻击)",
-      "path": "01 实用工具/开箱即用的工具/【debug】mitmproxy(中间人攻击).md"
-    },
-    {
       "basename": "关于本资料库的使用方式",
       "path": "00 关于本资料库的使用方式/关于本资料库的使用方式.md"
     },
     {
-      "basename": "27查看网络配置",
-      "path": "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/27查看网络配置.mp4"
+      "basename": "【all】通用插件推荐",
+      "path": "01 实用工具/浏览器插件/【all】通用插件推荐.md"
     },
     {
-      "basename": "26网络管理",
-      "path": "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/26网络管理.mp4"
+      "basename": "【CodeBuild]】cmake",
+      "path": "01 实用工具/开箱即用的工具/【CodeBuild]】cmake.md"
     },
     {
-      "basename": "23",
-      "path": "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/23.mp4"
-    },
-    {
-      "basename": "22",
-      "path": "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/22.mp4"
-    },
-    {
-      "basename": "21su和sudo命令的区别和使用方法",
-      "path": "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/21su和sudo命令的区别和使用方法.mp4"
-    },
-    {
-      "basename": "01课程介绍",
-      "path": "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/01课程介绍.mp4"
-    },
-    {
-      "basename": " 33",
-      "path": "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/ 33.mp4"
-    },
-    {
-      "basename": "2.变量",
-      "path": "02 编程语言学习/python/2.变量.md"
-    },
-    {
-      "basename": "1.基础知识",
-      "path": "02 编程语言学习/python/1.基础知识.md"
-    },
-    {
-      "basename": "0.开始前的准备",
-      "path": "02 编程语言学习/python/0.开始前的准备.md"
-    },
-    {
-      "basename": "78a9f29182e8d4b6667c9ee76ebe3b33_MD5",
-      "path": "02 编程语言学习/python/附件/78a9f29182e8d4b6667c9ee76ebe3b33_MD5.webp"
-    },
-    {
-      "basename": "6.模块",
-      "path": "02 编程语言学习/python/6.模块.md"
-    },
-    {
-      "basename": "Python编程：从入门到实践-无损压缩",
-      "path": "tmp/test 快捷方式/pdf/00 编程语言/Python/pdf/Python编程：从入门到实践-无损压缩.pdf"
-    },
-    {
-      "basename": "GIT官方手册中文版",
-      "path": "tmp/test 快捷方式/pdf/03 通用工具/git&svn/GIT官方手册中文版.pdf"
-    },
-    {
-      "basename": "00 redis安装与介绍",
-      "path": "06 数据库/redis/00 redis安装与介绍.md"
-    },
-    {
-      "basename": "[编码：隐匿在计算机软硬件背后的语言].(Code).C",
-      "path": "tmp/test 快捷方式/pdf/06 linux/flash-linux0.11-talk/一些非必要的资料/[编码：隐匿在计算机软硬件背后的语言].(Code).C.pdf"
-    },
-    {
-      "basename": "Linux内核完全注释",
-      "path": "tmp/test 快捷方式/pdf/06 linux/flash-linux0.11-talk/一些非必要的资料/Linux内核完全注释.pdf"
-    },
-    {
-      "basename": "第1章_1-1_onvif+gsoap协议与代码封装的课程效果演示",
-      "path": "tmp/test 快捷方式/mp4/08 音视频资料/音视频/04第四阶段：  视频监控+onvif+gb28181/02-28717_FFmpeg4.3系列之27：onvif+gsoap协议精讲与代码封装实战_梅会东-175/第1章_1-1_onvif+gsoap协议与代码封装的课程效果演示.mp4"
-    },
-    {
-      "basename": "01_课程安排",
-      "path": "tmp/test 快捷方式/mp4/05 数据库/C++数据库开发/day1/01_课程安排.mp4"
-    },
-    {
-      "basename": "tweetsip",
-      "path": "tmp/test 快捷方式/mp4/01 网络/pdf/source_code/Head-First-HTML-master/chapter12/starbuzz/video/tweetsip.mp4"
-    },
-    {
-      "basename": "27. 算法的形式",
-      "path": "tmp/test 快捷方式/mp4/00 编程语言/C&Cxx/cxx视频&音频/STL/stl_侯捷_困难/27. 算法的形式.mp4"
-    },
-    {
-      "basename": "1. 演进、环境与资源",
-      "path": "tmp/test 快捷方式/mp4/00 编程语言/C&Cxx/cxx视频&音频/c++11-14/1. 演进、环境与资源.mp4"
+      "basename": "test",
+      "path": "tmp/test.md"
     }
   ],
   "omittedPaths": [],
