@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "091188e6fe3edbeb",
+    "id": "cc4751bdf71fe284",
     "type": "split",
     "children": [
       {
-        "id": "34974af380f42fa6",
+        "id": "4b752da0fa8f0450",
         "type": "tabs",
         "children": [
           {
-            "id": "b62f77619ec7b5dc",
+            "id": "c34dd1fa16ebb753",
             "type": "leaf",
             "state": {
               "type": "pkmer-downloader",
@@ -16,33 +16,30 @@
             }
           },
           {
-            "id": "e04a81106ddf9f1b",
+            "id": "138a4c6115d333b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "surfing-view",
               "state": {
-                "file": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
-                "mode": "source",
-                "source": true
+                "url": "https://github.com/denolehov/obsidian-git"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6869bc13d25bf318",
+    "id": "0ab7369ddb1d2d99",
     "type": "split",
     "children": [
       {
-        "id": "5656389882422fa3",
+        "id": "5abcf97a72d622f9",
         "type": "tabs",
         "children": [
           {
-            "id": "a4cd0b544a083dbb",
+            "id": "9485692fd846e39f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,12 +49,12 @@
             }
           },
           {
-            "id": "fb39189b7facf4ef",
+            "id": "938d07f34ac8464a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +64,7 @@
             }
           },
           {
-            "id": "ab2d39e3cdfe0672",
+            "id": "09ec795b4eca4e44",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,69 +72,42 @@
             }
           },
           {
-            "id": "b831ad8cd19997ba",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "d11c39e2e237e2e0",
+            "id": "dc36068edf6ef994",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
               "state": {}
             }
+          },
+          {
+            "id": "65693d2245f09a38",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 508.5
   },
   "right": {
-    "id": "ca0a536a604a0f30",
+    "id": "108b73372a05e3e2",
     "type": "split",
     "children": [
       {
-        "id": "b7ae3b566f237c9b",
+        "id": "c5649b4e88a5dc70",
         "type": "tabs",
         "children": [
           {
-            "id": "38a947f789d7b22a",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "516011689ed7d326",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "56dbfe0bed9833ff",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "6eb78d06a1f70430",
+            "id": "43949bb6e2525bb9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,111 +119,128 @@
             }
           },
           {
-            "id": "44153f37d60e21a1",
+            "id": "0ad65c152d70fbea",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "12cea47a22b4f669",
+            "id": "4d47f53c45c135d6",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02f8951a2cbb62ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "72cb97e74f6b79dc",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1501b289f9c52a32",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "93e70f2eecafb592",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "94102552fc070d5e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:Commander: 打开 Commander 设置": false,
-      "cmdr:切换实时阅览/源码模式": false,
-      "cmdr:重新加载 Obsidian（不保存当前编辑内容）": false,
-      "cmdr:Surfing: 刷新当前页面": false,
-      "cmdr:jupyterStart": false,
-      "cmdr:jupyterStop": false,
-      "cmdr:md2ipynb": false,
-      "cmdr:在系统资源管理器中显示": false,
-      "cmdr:Weread: 同步微信读书笔记": true,
-      "templates:插入模板": true,
-      "command-palette:打开命令面板": true,
-      "graph:查看关系图谱": true,
-      "canvas:新建白板": true,
-      "switcher:打开快速切换": true,
-      "daily-notes:打开/创建今天的日记": true,
-      "workspaces:管理工作区布局": false,
+      "command-palette:打开命令面板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "i18n:I18N": false,
+      "media-extended:打开媒体": false,
       "pkmer:Open Pkmer Market": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "surfing:surfing-bookmark-manager": true,
-      "markdown-table-editor:Open Markdown Table Editor": false,
+      "smart-composer:Open smart composer": false,
+      "surfing:surfing-bookmark-manager": false,
       "obsidian-file-cleaner:清理文件": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false,
-      "terminal:Open terminal": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": true,
-      "obsidian-weread-plugin:同步微信读书笔记": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
-      "media-extended:Open media": false,
-      "copilot:Copilot Chat": false
+      "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "e04a81106ddf9f1b",
+  "active": "c34dd1fa16ebb753",
   "lastOpenFiles": [
-    "01 实用工具/浏览器插件/【all】通用插件推荐.md",
-    "01 实用工具/开箱即用的工具/【CodeBuild]】cmake.md",
-    "tmp/test.md",
-    "tmp/未命名.md",
-    "tmp/chatgpt网站.md",
-    "tmp/胡思乱想的想法.md",
-    "Excalidraw/Drawing 2024-03-29 11.56.13.excalidraw.md",
-    "01 实用工具/需要部署的工具/【watch】prometheus+grafana监控mysql.md",
-    "tmp/附件/ec5b95fc9dc3ed2a4930d4b7803f5ca.jpg",
-    "tmp/附件/d642046d199ef204c26c779fb1ddf4b8_MD5.jpeg",
-    "tmp/附件/b8e1e6bbda74b5c577da1657ab52904.jpg",
-    "tmp/附件/Pasted image 20231221124117.png",
-    "tmp/附件/Pasted image 20231221124038.png",
-    "tmp/附件/Pasted image 20231221124018.png",
-    "tmp/附件/9f51112bce67812f4af0881a98468b1.jpg",
-    "tmp/附件/8d7ffdcdcb05e52f5107349cb0a41214_MD5.jpeg",
-    "tmp/附件/53c76d4cd331f74eab384cedc9a11641_MD5.jpeg",
-    "tmp/附件/279d9dce2ccb77df735f672c2a804d74_MD5.jpeg",
-    "tmp/附件",
-    "tmp/test 快捷方式/pdf/07 windows/tools/工作用软件/电气CAD/AutoCAD_Electrical_2015_Simplified_Chinese_Win_64bit_dlm/x64/acade/Program Files/Root/Help",
-    "tmp/test 快捷方式/pdf/07 windows/tools/工作用软件/AUTOCAD/AutoCAD_2014_Simplified_Chinese_Win_64bit_dlm/x64/acad/Program Files/Root/Help",
-    "tmp/test 快捷方式/mp4/07 windows/tools/工作用软件/电气CAD/AutoCAD 2015/Acade/Support/zh-CN/WelcomeScreen/video",
-    "tmp/test 快捷方式/mp4/00 编程语言/C&Cxx/cxx视频&音频/零基础自学C/第一阶段 - 玩转C语言（新版）/01_C语言基础/C学习视频/第一天/第1天/3-视频",
-    "tmp/test 快捷方式/pdf/07 windows/tools/工作用软件/电气CAD/AutoCAD_Electrical_2015_Simplified_Chinese_Win_64bit_dlm/x64/acade/Program Files/Root",
-    "tmp/test 快捷方式/pdf/07 windows/tools/工作用软件/AUTOCAD/AutoCAD_2014_Simplified_Chinese_Win_64bit_dlm/x64/acad/Program Files/Root",
-    "tmp/test 快捷方式/pdf/07 windows/tools/Tools/Packers/WinLicense_x32_x64_v2.3.7.0/WinlicenseSDK/Include/C/Via ASM module",
-    "tmp/test 快捷方式/pdf/07 windows/tools/Tools/Packers/Themida_x32_x64_v2.3.7.0/ThemidaSDK/Include/C/Via ASM module",
-    "tmp/test 快捷方式/pdf/00 编程语言/C&Cxx/QT/QT/第一阶段 QT编程基础之C++/00.C++脱产培训视频教程 9部分/9 配套课件/[www.17zixueba.com]unix环境高级编程/[www.17zixueba.com]unix基础",
-    "tmp/test 快捷方式/mp4/06 linux/061 Linux实战技能100讲【完结】/Media Note - 26网络管理.md",
-    "问题集/问题集.md",
-    "12 软件设计师学习/09 法律法规.md",
-    "12 软件设计师学习/06 信息系统安全属性.md",
-    "12 软件设计师学习/05 网络.md",
-    "12 软件设计师学习/02 计算机组成与体系结构.md",
-    "11 零散的知识/分享网络.md",
-    "11 零散的知识/术语及概念解释.md",
+    "00 关于本资料库的使用方式/obsidian 插件篇.md",
+    "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
+    "00 关于本资料库的使用方式/附件/cc4120f75f2ab8704973be5ebf9ab9df_MD5.jpeg",
+    "00 关于本资料库的使用方式/附件/设置自定义样式.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250121162803.png",
+    "00 关于本资料库的使用方式/markdown语法.md",
+    "04  操作系统/linux/系统编程/03 静态库与共享库.md",
+    "04  操作系统/linux/系统编程/02 线程.md",
+    "00 关于本资料库的使用方式/附件/440c1d54ca4daa7db19e6c7ed3ef8602_MD5.jpeg",
+    "11 零散的知识/收藏其他人的收藏夹.md",
+    "11 零散的知识/附件/大前端知识图谱+B站视频整合.md",
+    "11 零散的知识/附件/Markdown技术胖浏览器收藏夹公开.md",
     "11 零散的知识/如何搜索（查找资料）.md",
-    "11 零散的知识/奇怪的操作.md",
-    "11 零散的知识/附件/网络结构.md",
-    "11 零散的知识/附件/电脑连接.md",
-    "11 零散的知识/加密算法.md",
-    "10 架构师学习/术语及概念解释.md",
+    "问题集/问题集.md",
+    "02 编程语言学习/java/00 java自学（基础篇）.md",
+    "02 编程语言学习/C&C++/c++  语法.md",
+    "02 编程语言学习/C&C++/术语及名词解释.md",
+    "02 编程语言学习/前端/前置知识.md",
+    "00 关于本资料库的使用方式/附件/7fad9720e3274741d2a68d81c2073721_MD5.jpeg",
+    "00 关于本资料库的使用方式/附件/6148820537b17792b3beb8034086c518_MD5.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250121154335.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250121154325.png",
+    "00 关于本资料库的使用方式/附件/1595de785557d134df2845f7fcf68837_MD5.jpeg",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250121154156.png",
+    "README.md",
     "08 网络知识/计算机网络/中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程.md",
-    "08 网络知识/网络协议.md",
-    "08 网络知识/硬件设备.md",
-    "08 网络知识/名词及术语解释.md",
-    "测试/未命名.canvas"
+    "00-1 obsidian 模板/06 python模板.md",
+    "00-1 obsidian 模板/05 java代码段.md",
+    "00-1 obsidian 模板/04 c++代码段.md",
+    "00-1 obsidian 模板/03 bash代码段.md",
+    "00-1 obsidian 模板/02 mysql代码段.md",
+    "00-1 obsidian 模板/01 ai写作说明.md",
+    "未命名.canvas",
+    "Media Note - Obsidian插件Media Extended视频加时间戳.md",
+    "00-1 obsidian 模板/01 -2 ai写作标识.md",
+    "02 编程语言学习/python/4.字典.md"
   ]
 }

@@ -1,7 +1,5 @@
 {
-  "accentColor": "",
-  "baseFontSize": 14,
-  "showViewHeader": true,
-  "theme": "system",
-  "nativeMenus": false
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": true,
+  "baseFontSize": 13
 }

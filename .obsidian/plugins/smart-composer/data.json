@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "openAIApiKey": "",
+  "anthropicApiKey": "",
+  "geminiApiKey": "",
+  "groqApiKey": "",
+  "chatModelId": "openai-compatible",
+  "ollamaChatModel": {
+    "baseUrl": "",
+    "model": ""
+  },
+  "openAICompatibleChatModel": {
+    "baseUrl": "https://api.deepseek.com/v1",
+    "apiKey": "sk-0382e1beb2004682ae81c20828af5d84",
+    "model": "deepseek-chat"
+  },
+  "applyModelId": "openai-compatible",
+  "ollamaApplyModel": {
+    "baseUrl": "",
+    "model": ""
+  },
+  "openAICompatibleApplyModel": {
+    "baseUrl": "https://api.deepseek.com/v1",
+    "apiKey": "sk-0382e1beb2004682ae81c20828af5d84",
+    "model": "deepseek-chat"
+  },
+  "embeddingModelId": "openai/text-embedding-3-small",
+  "ollamaEmbeddingModel": {
+    "baseUrl": "",
+    "model": ""
+  },
+  "systemPrompt": "Always respond in 中文",
+  "ragOptions": {
+    "chunkSize": 1000,
+    "thresholdTokens": 8192,
+    "minSimilarity": 0,
+    "limit": 10,
+    "excludePatterns": [],
+    "includePatterns": []
+  }
+}

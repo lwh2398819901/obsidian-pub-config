@@ -22,7 +22,7 @@
   "showRefreshButton": true,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
-  "useWebview": true,
+  "useWebview": false,
   "useIconList": true,
   "darkMode": false,
   "randomBackground": false,
@@ -32,7 +32,7 @@
     "saveBookMark": false,
     "sendToReadWise": false,
     "pagination": "12",
-    "category": "- Computer\n    - 算法\n    - 数据结构\n- obsidian\n    - surfing\n    - dataview\n- test\n\n",
+    "category": "- Computer\n    - 算法\n    - 数据结构\n- obsidian\n    - surfing\n    - dataview\n",
     "defaultCategory": "ROOT",
     "defaultColumnList": [
       "name",
@@ -44,8 +44,23 @@
       "modified",
       "action"
     ],
-    "defaultFilterType": "menu"
+    "defaultFilterType": "tree"
   },
-  "treeData": [],
-  "enableHtmlPreview": true
+  "treeData": [
+    {
+      "id": "138a4c6115d333b4",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
+  "enableHtmlPreview": true,
+  "supportLivePreviewInlineUrl": true,
+  "enableTreeView": true,
+  "focusSearchBarViaKeyboard": true
 }

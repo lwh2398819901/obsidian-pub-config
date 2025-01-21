@@ -258,7 +258,7 @@ class MouseWheelZoomPlugin extends obsidian.Plugin {
             this.registerEvent(this.app.workspace.on("window-open", (newWindow) => this.registerEvents(newWindow.win)));
             this.registerEvents(window);
             this.addSettingTab(new MouseWheelZoomSettingsTab(this.app, this));
-            console.log("Loaded: Mousewheel image zoom");
+            console.log("已加载：鼠标滚轮图像缩放");
         });
     }
     /**
@@ -472,10 +472,10 @@ class MouseWheelZoomSettingsTab extends obsidian.PluginSettingTab {
     display() {
         let { containerEl } = this;
         containerEl.empty();
-        containerEl.createEl('h2', { text: 'Settings for mousewheel zoom' });
+        containerEl.createEl('h2', { text: '鼠标滚轮缩放设置' });
         new obsidian.Setting(containerEl)
-            .setName('Trigger Key')
-            .setDesc('Key that needs to be pressed down for mousewheel zoom to work.')
+            .setName('触发键')
+            .setDesc('鼠标滚轮缩放时需要按下的键。')
             .addDropdown(dropdown => dropdown
             .addOption(ModifierKey.CTRL, "Ctrl")
             .addOption(ModifierKey.ALT, "Alt")
@@ -489,8 +489,8 @@ class MouseWheelZoomSettingsTab extends obsidian.PluginSettingTab {
             yield this.plugin.saveSettings();
         })));
         new obsidian.Setting(containerEl)
-            .setName('Step size')
-            .setDesc('Step value by which the size of the image should be increased/decreased')
+            .setName('步长')
+            .setDesc('图像尺寸增大/减小的步长值')
             .addSlider(slider => {
             slider
                 .setValue(25)
@@ -503,8 +503,8 @@ class MouseWheelZoomSettingsTab extends obsidian.PluginSettingTab {
             }));
         });
         new obsidian.Setting(containerEl)
-            .setName('Initial Size')
-            .setDesc('Initial image size if no size was defined beforehand')
+            .setName('初始尺寸')
+            .setDesc('如果事先未定义图像尺寸，则为初始图像尺寸')
             .addSlider(slider => {
             slider
                 .setValue(500)

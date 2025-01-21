@@ -1,0 +1,15 @@
+{
+    "manifest": {
+        "translationVersion": 1737428992497,
+        "pluginVersion": "0.1.5"
+    },
+    "description": {
+        "original": "Help you to clean empty files and unused attachments in the vault.",
+        "translation": "Help you to clean empty files and unused attachments in the vault."
+    },
+    "dict": {
+        "Notice(t(\"Clean successful\")": "Notice(t(\"清理成功\")",
+        "Notice(t(\"No file to clean\")": "Notice(t(\"没有文件可以清理\")",
+        ".log(file.name + \" cleaned\")": ".log(file.name + \" 清理成功\")"
+    }
+}

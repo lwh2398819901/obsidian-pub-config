@@ -1,150 +1,59 @@
 {
-  "confirmDeletion": false,
+  "confirmDeletion": true,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [
     {
-      "id": "obsidian-mindmap-nextgen:mindmapnextgen:pinned",
-      "icon": "map",
-      "name": "思维导图",
-      "mode": "any"
-    },
-    {
-      "id": "calendar:show-calendar-view",
-      "icon": "calendar",
-      "name": "Calendar: Open view",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-git:pull",
-      "icon": "git-pull-request",
-      "name": "Git: Pull",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-git:push2",
-      "icon": "arrow-up",
-      "name": "Git: Push",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-git:stage-current-file",
-      "icon": "save",
-      "name": "Git: Stage current file",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-git:commit-staged",
-      "icon": "git-commit",
-      "name": "Git: Commit staged",
-      "mode": "any"
-    },
-    {
       "id": "insert-template",
       "icon": "lucide-copy",
       "name": "模板: 插入模板",
-      "mode": "any"
+      "mode": "any",
+      "color": "#000000"
     },
     {
-      "id": "obsidian-file-cleaner:clean-files",
-      "icon": "trash-2",
-      "name": "清理文件",
-      "mode": "any"
+      "id": "smart-composer:open-new-chat",
+      "icon": "bot",
+      "name": "Smart Composer: 打开聊天",
+      "mode": "any",
+      "color": "#131516"
+    },
+    {
+      "id": "smart-composer:add-selection-to-chat",
+      "icon": "bot",
+      "name": "Smart Composer: 将选中内容加入聊天",
+      "mode": "any",
+      "color": "#0f0f0f"
+    },
+    {
+      "id": "smart-composer:update-vault-index",
+      "icon": "bot",
+      "name": "Smart Composer: 更新已修改文件的索引",
+      "mode": "any",
+      "color": "#242424"
+    },
+    {
+      "id": "smart-composer:rebuild-vault-index",
+      "icon": "bot",
+      "name": "Smart Composer: 重建整个知识库索引",
+      "mode": "any",
+      "color": "#292e2a"
     }
   ],
   "fileMenu": [],
-  "leftRibbon": [
-    {
-      "id": "cmdr:open-commander-settings",
-      "icon": "command",
-      "name": "Commander: 打开 Commander 设置",
-      "mode": "any"
-    },
-    {
-      "id": "editor:toggle-source",
-      "icon": "lucide-code-2",
-      "name": "切换实时阅览/源码模式",
-      "mode": "any"
-    },
-    {
-      "id": "app:reload",
-      "icon": "lucide-rotate-ccw",
-      "name": "重新加载 Obsidian（不保存当前编辑内容）",
-      "mode": "any"
-    },
-    {
-      "id": "surfing:refresh-page",
-      "icon": "activity",
-      "name": "Surfing: 刷新当前页面",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-shellcommands:shell-command-05jrlw4pcc",
-      "icon": "bug",
-      "name": "jupyterStart",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-shellcommands:shell-command-3htt48gkf1",
-      "icon": "locate-off",
-      "name": "jupyterStop",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-shellcommands:shell-command-hkrzgdcq9s",
-      "icon": "move-horizontal",
-      "name": "md2ipynb",
-      "mode": "any"
-    },
-    {
-      "id": "open-with-default-app:show",
-      "icon": "lucide-files",
-      "name": "在系统资源管理器中显示",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-weread-plugin:sync-weread-notes-command",
-      "icon": "book",
-      "name": "Weread: 同步微信读书笔记",
-      "mode": "any"
-    }
-  ],
+  "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [
-    {
-      "id": "obsidian-mindmap-nextgen:mindmapnextgen:pinned",
-      "icon": "map",
-      "name": "思维导图",
-      "mode": "any"
-    },
-    {
-      "id": "insert-template",
-      "icon": "lucide-copy",
-      "name": "模板: 插入模板",
-      "mode": "any"
-    },
-    {
-      "id": "workspace:split-vertical",
-      "icon": "lucide-separator-vertical",
-      "name": "左右分屏",
-      "mode": "any"
-    },
-    {
-      "id": "workspace:split-horizontal",
-      "icon": "lucide-separator-horizontal",
-      "name": "上下分屏",
-      "mode": "any"
-    }
-  ],
+  "pageHeader": [],
   "macros": [],
   "explorer": [],
   "hide": {
-    "statusbar": [],
+    "statusbar": [
+      "pkmer"
+    ],
     "leftRibbon": []
   },
-  "spacing": "8",
+  "spacing": 8,
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 1,

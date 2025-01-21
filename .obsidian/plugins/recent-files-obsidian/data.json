@@ -1,23 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "obsidian 插件篇",
+      "path": "00 关于本资料库的使用方式/obsidian 插件篇.md"
+    },
+    {
       "basename": "关于本资料库的使用方式",
       "path": "00 关于本资料库的使用方式/关于本资料库的使用方式.md"
     },
     {
-      "basename": "【all】通用插件推荐",
-      "path": "01 实用工具/浏览器插件/【all】通用插件推荐.md"
-    },
-    {
-      "basename": "【CodeBuild]】cmake",
-      "path": "01 实用工具/开箱即用的工具/【CodeBuild]】cmake.md"
-    },
-    {
-      "basename": "test",
-      "path": "tmp/test.md"
+      "basename": "markdown语法",
+      "path": "00 关于本资料库的使用方式/markdown语法.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null,
-  "openType": "tab"
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
 }
