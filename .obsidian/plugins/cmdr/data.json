@@ -1,5 +1,5 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [
@@ -37,6 +37,30 @@
       "name": "Smart Composer: 重建整个知识库索引",
       "mode": "any",
       "color": "#292e2a"
+    },
+    {
+      "id": "obsidian-git:open-diff-view",
+      "icon": "align-horizontal-space-between",
+      "name": "Git: 打开差异视图",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:open-history-view",
+      "icon": "history",
+      "name": "Git: 打开历史记录视图",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:open-git-view",
+      "icon": "git-pull-request",
+      "name": "Git: 打开源代码管理视图",
+      "mode": "any"
+    },
+    {
+      "id": "better-export-pdf:export-current-file-to-pdf",
+      "icon": "lucide-download",
+      "name": "Better Export PDF: 导出当前文件为PDF",
+      "mode": "any"
     }
   ],
   "fileMenu": [],
@@ -49,6 +73,7 @@
   "explorer": [],
   "hide": {
     "statusbar": [
+      "editor-status",
       "pkmer"
     ],
     "leftRibbon": []

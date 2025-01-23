@@ -1,5 +1,5 @@
 {
-  "livePreview": false,
+  "livePreview": true,
   "trashOption": "local",
   "newFileLocation": "current",
   "newLinkFormat": "relative",
@@ -9,5 +9,14 @@
   "showUnsupportedFiles": true,
   "promptDelete": false,
   "showRibbon": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "uriCallbacks": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

@@ -112,11 +112,6 @@
       "icon": "lucide-paperclip"
     },
     {
-      "id": "editing-toolbar:editor:insert-table",
-      "name": "Toggle table",
-      "icon": "lucide-table"
-    },
-    {
       "id": "editing-toolbar:editor:cycle-list-checklist",
       "name": "Toggle cycle list checklist",
       "icon": "check-circle"
@@ -273,6 +268,11 @@
       "id": "editing-toolbar:workplace-fullscreen-focus",
       "name": "workplace-Fullscreen ",
       "icon": "exit-fullscreen"
+    },
+    {
+      "id": "editor:toggle-source",
+      "name": "切换实时阅览/源码模式",
+      "icon": "lucide-code-2"
     }
   ],
   "appendMethod": "body",

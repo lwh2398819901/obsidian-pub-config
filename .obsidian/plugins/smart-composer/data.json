@@ -6,8 +6,8 @@
   "groqApiKey": "",
   "chatModelId": "openai-compatible",
   "ollamaChatModel": {
-    "baseUrl": "",
-    "model": ""
+    "baseUrl": "http://127.0.0.1:11434",
+    "model": "deepseek-r1:8b"
   },
   "openAICompatibleChatModel": {
     "baseUrl": "https://api.deepseek.com/v1",
@@ -16,20 +16,20 @@
   },
   "applyModelId": "openai-compatible",
   "ollamaApplyModel": {
-    "baseUrl": "",
-    "model": ""
+    "baseUrl": "http://127.0.0.1:11434",
+    "model": "qwen:0.5b"
   },
   "openAICompatibleApplyModel": {
     "baseUrl": "https://api.deepseek.com/v1",
     "apiKey": "sk-0382e1beb2004682ae81c20828af5d84",
     "model": "deepseek-chat"
   },
-  "embeddingModelId": "openai/text-embedding-3-small",
+  "embeddingModelId": "ollama/bge-m3",
   "ollamaEmbeddingModel": {
-    "baseUrl": "",
+    "baseUrl": "http://127.0.0.1:11434",
     "model": ""
   },
-  "systemPrompt": "Always respond in 中文",
+  "systemPrompt": "Always respond in 中文\n回答简洁且高效，内容齐全但是不能啰嗦",
   "ragOptions": {
     "chunkSize": 1000,
     "thresholdTokens": 8192,

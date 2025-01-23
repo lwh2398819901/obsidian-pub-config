@@ -4,25 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4b752da0fa8f0450",
+        "id": "f2d9515a3254e3ef",
         "type": "tabs",
         "children": [
           {
-            "id": "c34dd1fa16ebb753",
+            "id": "ebf45ac664f8b40c",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
-              "state": {}
-            }
-          },
-          {
-            "id": "138a4c6115d333b4",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
+              "type": "split-diff-view",
               "state": {
-                "url": "https://github.com/denolehov/obsidian-git"
-              }
+                "aFile": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
+                "bFile": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 关于本资料库的使用方式"
             }
           }
         ]
@@ -45,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -60,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -68,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -76,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
-              "state": {}
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
             }
           },
           {
@@ -84,15 +88,26 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "72cb97e74f6b79dc",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 508.5
+    "width": 382.5
   },
   "right": {
     "id": "108b73372a05e3e2",
@@ -108,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 实用工具/需要部署的工具/【ai】 deepseek api接入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +131,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "【ai】 deepseek api接入 的反向链接列表"
             }
           },
           {
@@ -124,9 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 实用工具/需要部署的工具/【ai】 deepseek api接入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "【ai】 deepseek api接入 的出链列表"
             }
           },
           {
@@ -137,55 +158,47 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
-            "id": "02f8951a2cbb62ce",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "72cb97e74f6b79dc",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "1501b289f9c52a32",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "93e70f2eecafb592",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "94102552fc070d5e",
+            "id": "adadea88b8017383",
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "源代码管理"
+            }
+          },
+          {
+            "id": "6783d4461b027e19",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "历史记录"
+            }
+          },
+          {
+            "id": "ed132c7a81532574",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 632.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,46 +214,61 @@
       "smart-composer:Open smart composer": false,
       "surfing:surfing-bookmark-manager": false,
       "obsidian-file-cleaner:清理文件": false,
-      "obsidian-git:打开Git源代码管理": false
+      "obsidian-git:打开Git源代码管理": false,
+      "vscode-editor:新建代码文件": false,
+      "pdf-plus:PDF++: 切换自动复制": false,
+      "pdf-plus:PDF++: 切换自动对焦": false,
+      "pdf-plus:PDF++: 切换自动粘贴": false
     }
   },
-  "active": "c34dd1fa16ebb753",
+  "active": "ebf45ac664f8b40c",
   "lastOpenFiles": [
-    "00 关于本资料库的使用方式/obsidian 插件篇.md",
+    "资料/C++17完全指南.pdf",
+    "资料/cpp17indetail.pdf",
+    "未命名.md",
     "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
-    "00 关于本资料库的使用方式/附件/cc4120f75f2ab8704973be5ebf9ab9df_MD5.jpeg",
-    "00 关于本资料库的使用方式/附件/设置自定义样式.png",
-    "00 关于本资料库的使用方式/附件/Pasted image 20250121162803.png",
+    "00 关于本资料库的使用方式/obsidian 插件篇.md",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250123115908.png",
+    "资料/高性能MySQL（第4版） ( etc.) (Z-Library).pdf",
+    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第1章 课程介绍【整体介绍http的恋爱路线】/1-1_课程整体介绍.mp4",
+    "资料/未命名.md",
+    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第9章 课程总结/9-1_课程总结.mp4",
+    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第9章 课程总结",
+    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第8章 HTTP终相守--Web安全威胁解析/8-6_CSRF攻击.mp4",
+    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第8章 HTTP终相守--Web安全威胁解析/8-5_跨站脚本攻击.mp4",
+    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第8章 HTTP终相守--Web安全威胁解析/8-4_SQL注入攻击.mp4",
+    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第8章 HTTP终相守--Web安全威胁解析/8-3_会话管理机制.mp4",
+    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第8章 HTTP终相守--Web安全威胁解析/8-2_验证机制安全.mp4",
+    "资料/qt_book-master/README.md",
+    "资料/qt_book-master/README.en.md",
+    "01 实用工具/需要部署的工具/附件/Pasted image 20250122151604.png",
+    "01 实用工具/需要部署的工具/附件/Pasted image 20250122154328.png",
+    "01 实用工具/需要部署的工具/【ai】 ollama.md",
+    "01 实用工具/需要部署的工具/附件/Pasted image 20250122154515.png",
+    "01 实用工具/需要部署的工具/【ai】 deepseek api接入.md",
     "00 关于本资料库的使用方式/markdown语法.md",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250122151119.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250122151051.png",
+    "01 实用工具/开箱即用的工具/【CodeBuild]】cmake.md",
+    "01 实用工具/开箱即用的工具/【CodeBuild]】gcc & gdb & core.md",
+    "01 实用工具/需要部署的工具/【watch】lepus监控mysql简单示例.md",
+    "01 实用工具/浏览器插件/【all】通用插件推荐.md",
+    "00 关于本资料库的使用方式/未命名.md",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250122150948.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250122150901.png",
+    "01 实用工具/需要部署的工具/【watch】prometheus+grafana监控mysql.md",
+    "02 编程语言学习/python/3.列表.md",
+    "02 编程语言学习/python/2.变量.md",
+    "02 编程语言学习/python/4.字典.md",
+    "02 编程语言学习/python/5.函数.md",
+    "02 编程语言学习/python/6.模块.md",
+    "02 编程语言学习/python/1.1 系统函数.md",
+    "02 编程语言学习/python/1.基础知识.md",
+    "00 关于本资料库的使用方式/附件/1737507474576.jpg",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250122085823.png",
     "04  操作系统/linux/系统编程/03 静态库与共享库.md",
     "04  操作系统/linux/系统编程/02 线程.md",
-    "00 关于本资料库的使用方式/附件/440c1d54ca4daa7db19e6c7ed3ef8602_MD5.jpeg",
     "11 零散的知识/收藏其他人的收藏夹.md",
-    "11 零散的知识/附件/大前端知识图谱+B站视频整合.md",
-    "11 零散的知识/附件/Markdown技术胖浏览器收藏夹公开.md",
-    "11 零散的知识/如何搜索（查找资料）.md",
-    "问题集/问题集.md",
-    "02 编程语言学习/java/00 java自学（基础篇）.md",
-    "02 编程语言学习/C&C++/c++  语法.md",
-    "02 编程语言学习/C&C++/术语及名词解释.md",
-    "02 编程语言学习/前端/前置知识.md",
-    "00 关于本资料库的使用方式/附件/7fad9720e3274741d2a68d81c2073721_MD5.jpeg",
-    "00 关于本资料库的使用方式/附件/6148820537b17792b3beb8034086c518_MD5.png",
-    "00 关于本资料库的使用方式/附件/Pasted image 20250121154335.png",
-    "00 关于本资料库的使用方式/附件/Pasted image 20250121154325.png",
-    "00 关于本资料库的使用方式/附件/1595de785557d134df2845f7fcf68837_MD5.jpeg",
-    "00 关于本资料库的使用方式/附件/Pasted image 20250121154156.png",
-    "README.md",
-    "08 网络知识/计算机网络/中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程.md",
-    "00-1 obsidian 模板/06 python模板.md",
-    "00-1 obsidian 模板/05 java代码段.md",
-    "00-1 obsidian 模板/04 c++代码段.md",
-    "00-1 obsidian 模板/03 bash代码段.md",
-    "00-1 obsidian 模板/02 mysql代码段.md",
-    "00-1 obsidian 模板/01 ai写作说明.md",
-    "未命名.canvas",
-    "Media Note - Obsidian插件Media Extended视频加时间戳.md",
-    "00-1 obsidian 模板/01 -2 ai写作标识.md",
-    "02 编程语言学习/python/4.字典.md"
+    "未命名.canvas"
   ]
 }
