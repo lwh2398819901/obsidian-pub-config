@@ -63,12 +63,45 @@
       "mode": "any"
     }
   ],
-  "fileMenu": [],
-  "leftRibbon": [],
+  "fileMenu": [
+    {
+      "id": "graph:open-local",
+      "icon": "lucide-git-fork",
+      "name": "关系图谱: 打开局部关系图",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [
+    {
+      "id": "workspace:show-trash",
+      "icon": "lucide-trash",
+      "name": "打开回收站",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:open-commander-settings",
+      "icon": "lucide-command",
+      "name": "Commander: 打开 Commander 设置",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-weread-plugin:Force-sync-weread-notes-command",
+      "icon": "lucide-book-copy",
+      "name": "Weread: 强制同步微信读书笔记",
+      "mode": "any"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-weread-plugin:open-weread-reading-view",
+      "icon": "lucide-book-a",
+      "name": "Weread: 在新窗口打开微信读书",
+      "mode": "any"
+    }
+  ],
   "macros": [],
   "explorer": [],
   "hide": {

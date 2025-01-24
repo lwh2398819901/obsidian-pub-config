@@ -15,11 +15,11 @@
   "showOtherSearchEngines": false,
   "showSearchBarInPage": false,
   "markdownPath": "/",
-  "customHighlightFormat": false,
+  "customHighlightFormat": true,
   "highlightFormat": "[{CONTENT}]({URL})",
   "highlightInSameTab": false,
   "openInSameTab": false,
-  "showRefreshButton": true,
+  "showRefreshButton": false,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
   "useWebview": false,
@@ -46,21 +46,9 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "461b2da744cf662f",
-      "parent": 0,
-      "droppable": true,
-      "text": "PKMer_Obsidian 插件：PDF++ 的个人推荐设置",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ],
+  "treeData": [],
   "enableHtmlPreview": true,
-  "supportLivePreviewInlineUrl": true,
-  "enableTreeView": true,
+  "supportLivePreviewInlineUrl": false,
+  "enableTreeView": false,
   "focusSearchBarViaKeyboard": true
 }

@@ -1,40 +1,52 @@
 {
   "bookmarks": [
     {
-      "id": "1031892552",
-      "name": "搜索 - Microsoft 必应",
-      "url": "https://cn.bing.com/",
+      "id": "-735112773",
+      "name": "未来世界的幸存者 - 阮一峰的个人网站",
+      "url": "https://www.ruanyifeng.com/survivor/",
       "description": "",
       "category": [
         "ROOT"
       ],
       "tags": "",
-      "created": 1737445887195,
-      "modified": 1737445887195
+      "created": 1737700878318,
+      "modified": 1737700878318
     },
     {
-      "id": "-1560837848",
-      "name": "百度一下，你就知道",
-      "url": "https://www.baidu.com",
+      "id": "1307082721",
+      "name": "微信读书",
+      "url": "https://weread.qq.com/",
       "description": "",
       "category": [
         "ROOT"
       ],
       "tags": "",
-      "created": 1737445842214,
-      "modified": 1737445842214
+      "created": 1737626310636,
+      "modified": 1737626310636
     },
     {
-      "id": "2014068036",
-      "name": "Obsidian",
-      "url": "https://obsidian.md/",
-      "description": "A awesome note-taking tool",
+      "id": "-342874130",
+      "name": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+      "url": "https://www.bilibili.com/",
+      "description": "",
       "category": [
         "ROOT"
       ],
       "tags": "",
-      "created": 1672840861051,
-      "modified": 1672840861052
+      "created": 1737619756738,
+      "modified": 1737619756739
+    },
+    {
+      "id": "-406138023",
+      "name": "Gitee - 基于 Git 的代码托管和研发协作平台",
+      "url": "https://gitee.com/",
+      "description": "面向企业提供一站式研发管理解决方案，包括代码管理、项目管理、文档协作、测试管理、CICD、效能度量等多个模块，支持SaaS、私有化等多种部署方式，帮助企业有序规划和管理研发过程，提升研发效率和质量。",
+      "category": [
+        ""
+      ],
+      "tags": "",
+      "created": 1737619500000,
+      "modified": 1737619500000
     }
   ],
   "categories": [

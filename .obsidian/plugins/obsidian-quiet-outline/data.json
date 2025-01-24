@@ -11,7 +11,7 @@
   "search_support": true,
   "level_switch": true,
   "markdown": true,
-  "expand_level": "0",
+  "expand_level": "4",
   "hide_unsearched": true,
   "auto_expand_ext": "only-expand",
   "regex_search": false,
@@ -19,7 +19,7 @@
   "label_direction": "left",
   "drag_modify": true,
   "locate_by_cursor": false,
-  "show_popover_key": "ctrlKey",
+  "show_popover_key": "disable",
   "remember_state": true,
   "export_format": "{title}"
 }

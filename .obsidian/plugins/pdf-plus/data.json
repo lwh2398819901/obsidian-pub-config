@@ -286,7 +286,7 @@
   "scrollModeOnLoad": 0,
   "spreadModeOnLoad": 0,
   "usePageUpAndPageDown": true,
-  "hoverableDropdownMenuInToolbar": true,
+  "hoverableDropdownMenuInToolbar": false,
   "zoomLevelInputBoxInToolbar": true,
   "popoverPreviewOnExternalLinkHover": true,
   "actionOnCitationHover": "pdf-plus-bib-popover",

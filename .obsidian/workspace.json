@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f2d9515a3254e3ef",
+        "id": "436c98953ecaa397",
         "type": "tabs",
         "children": [
           {
-            "id": "ebf45ac664f8b40c",
+            "id": "f23b7dce0f604602",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "pkmer-downloader",
+              "state": {},
+              "icon": "bookmark",
+              "title": "Pkmer Market"
+            }
+          },
+          {
+            "id": "5e018ee9b4ef5492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "aFile": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
-                "bFile": "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
-                "aRef": ""
+                "file": "00 关于本资料库的使用方式/obsidian 插件篇.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 关于本资料库的使用方式"
+              "icon": "lucide-file",
+              "title": "obsidian 插件篇"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sysctl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,17 +85,7 @@
             }
           },
           {
-            "id": "dc36068edf6ef994",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {},
-              "icon": "chrome",
-              "title": "Surfing Tab Tree"
-            }
-          },
-          {
-            "id": "65693d2245f09a38",
+            "id": "5609548e76a20ad8",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -92,22 +93,13 @@
               "icon": "clock",
               "title": "Recent Files"
             }
-          },
-          {
-            "id": "72cb97e74f6b79dc",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-chat-view",
-              "state": {},
-              "icon": "wand-sparkles",
-              "title": "Smart composer chat"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 356.5
   },
   "right": {
     "id": "108b73372a05e3e2",
@@ -164,7 +156,17 @@
             }
           },
           {
-            "id": "adadea88b8017383",
+            "id": "03d26fa24c12b409",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "715b1a543ea1dc9a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -174,23 +176,13 @@
             }
           },
           {
-            "id": "6783d4461b027e19",
+            "id": "37f3b9604a6f35ac",
             "type": "leaf",
             "state": {
-              "type": "git-history-view",
+              "type": "smtcmp-chat-view",
               "state": {},
-              "icon": "history",
-              "title": "历史记录"
-            }
-          },
-          {
-            "id": "ed132c7a81532574",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {},
-              "icon": "lines-of-text",
-              "title": "Quiet Outline"
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
             }
           }
         ],
@@ -198,77 +190,82 @@
       }
     ],
     "direction": "horizontal",
-    "width": 632.5
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "command-palette:打开命令面板": false,
-      "switcher:打开快速切换": false,
+      "surfing:surfing-bookmark-manager": false,
       "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
       "templates:插入模板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "i18n:I18N": false,
+      "obsidian-file-cleaner:清理文件": false,
       "media-extended:打开媒体": false,
       "pkmer:Open Pkmer Market": false,
       "smart-composer:Open smart composer": false,
-      "surfing:surfing-bookmark-manager": false,
-      "obsidian-file-cleaner:清理文件": false,
       "obsidian-git:打开Git源代码管理": false,
       "vscode-editor:新建代码文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "pdf-plus:PDF++: 切换自动复制": false,
       "pdf-plus:PDF++: 切换自动对焦": false,
-      "pdf-plus:PDF++: 切换自动粘贴": false
+      "pdf-plus:PDF++: 切换自动粘贴": false,
+      "i18n:I18N": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "cmdr:Weread: 强制同步微信读书笔记": false,
+      "cmdr:打开回收站": false,
+      "cmdr:Commander: 打开 Commander 设置": false,
+      "obsidian-custom-frames:Open 阮一峰博客": false,
+      "obsidian-custom-frames:Open B站": false
     }
   },
-  "active": "ebf45ac664f8b40c",
+  "active": "03d26fa24c12b409",
   "lastOpenFiles": [
-    "资料/C++17完全指南.pdf",
-    "资料/cpp17indetail.pdf",
-    "未命名.md",
-    "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
+    "13 读书笔记/网页读书/未来世界的幸存者.md",
     "00 关于本资料库的使用方式/obsidian 插件篇.md",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250124152637.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250124152550.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250124152342.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250124152105.png",
+    "00 关于本资料库的使用方式/markdown语法.md",
+    "test.md",
+    "附件/磁盘物理结构-》使用.md",
+    "13 读书笔记/网页读书",
+    "obsidian-pub-config/install.sh",
+    "13 读书笔记/微信读书/个人成长/每天演好一个情绪稳定的成年人.md",
+    "13 读书笔记/微信读书/社会文化/未来简史：从智人到智神.md",
+    "13 读书笔记/微信读书/社会文化/人体简史.md",
+    "13 读书笔记/微信读书/个人成长",
+    "13 读书笔记/微信读书/社会文化/今日简史：人类命运大议题.md",
+    "13 读书笔记/微信读书/科学技术/细胞生命的礼赞.md",
+    "13 读书笔记/微信读书/科学技术",
+    "13 读书笔记/微信读书/文学/弃猫：当我谈起父亲时.md",
+    "13 读书笔记/微信读书/社会文化/失控.md",
+    "13 读书笔记/微信读书/社会文化",
+    "13 读书笔记/微信读书/文学/月亮和六便士.md",
+    "13 读书笔记/微信读书/文学/1984.md",
+    "13 读书笔记/微信读书/文学/爱你就像爱生命.md",
+    "13 读书笔记/微信读书/文学",
+    "13 读书笔记/微信读书/1984/1984.md",
+    "13 读书笔记/微信读书/程序是怎样跑起来的/程序是怎样跑起来的.md",
+    "13 读书笔记/微信读书/程序是怎样跑起来的",
+    "13 读书笔记/微信读书/半小时漫画经济学3：金融危机完结篇/半小时漫画经济学3：金融危机完结篇.md",
+    "13 读书笔记/微信读书/半小时漫画经济学3：金融危机完结篇",
+    "13 读书笔记/微信读书/半小时漫画经济学系列（共4册）/半小时漫画经济学系列（共4册）.md",
+    "13 读书笔记/微信读书/半小时漫画经济学系列（共4册）",
+    "13 读书笔记/微信读书/小狗钱钱/小狗钱钱.md",
+    "13 读书笔记/微信读书/小狗钱钱",
+    "13 读书笔记/微信读书/精通Python网络爬虫：核心技术、框架与项目实战/精通Python网络爬虫：核心技术、框架与项目实战.md",
+    "13 读书笔记/微信读书/资治通鉴（最爱读国学系列）/资治通鉴（最爱读国学系列）.md",
+    "13 读书笔记/微信读书/三体（全集）/三体（全集）.md",
+    "13 读书笔记/微信读书/Windows网络编程/Windows网络编程.md",
+    "13 读书笔记/微信读书/瘟疫与人/瘟疫与人.md",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250123172711.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250123172305.png",
+    "00 关于本资料库的使用方式/附件/1737624203692.png",
     "00 关于本资料库的使用方式/附件/Pasted image 20250123115908.png",
-    "资料/高性能MySQL（第4版） ( etc.) (Z-Library).pdf",
-    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第1章 课程介绍【整体介绍http的恋爱路线】/1-1_课程整体介绍.mp4",
-    "资料/未命名.md",
-    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第9章 课程总结/9-1_课程总结.mp4",
-    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第9章 课程总结",
-    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第8章 HTTP终相守--Web安全威胁解析/8-6_CSRF攻击.mp4",
-    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第8章 HTTP终相守--Web安全威胁解析/8-5_跨站脚本攻击.mp4",
-    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第8章 HTTP终相守--Web安全威胁解析/8-4_SQL注入攻击.mp4",
-    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第8章 HTTP终相守--Web安全威胁解析/8-3_会话管理机制.mp4",
-    "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第8章 HTTP终相守--Web安全威胁解析/8-2_验证机制安全.mp4",
-    "资料/qt_book-master/README.md",
-    "资料/qt_book-master/README.en.md",
     "01 实用工具/需要部署的工具/附件/Pasted image 20250122151604.png",
     "01 实用工具/需要部署的工具/附件/Pasted image 20250122154328.png",
-    "01 实用工具/需要部署的工具/【ai】 ollama.md",
-    "01 实用工具/需要部署的工具/附件/Pasted image 20250122154515.png",
-    "01 实用工具/需要部署的工具/【ai】 deepseek api接入.md",
-    "00 关于本资料库的使用方式/markdown语法.md",
-    "00 关于本资料库的使用方式/附件/Pasted image 20250122151119.png",
-    "00 关于本资料库的使用方式/附件/Pasted image 20250122151051.png",
-    "01 实用工具/开箱即用的工具/【CodeBuild]】cmake.md",
-    "01 实用工具/开箱即用的工具/【CodeBuild]】gcc & gdb & core.md",
-    "01 实用工具/需要部署的工具/【watch】lepus监控mysql简单示例.md",
-    "01 实用工具/浏览器插件/【all】通用插件推荐.md",
-    "00 关于本资料库的使用方式/未命名.md",
-    "00 关于本资料库的使用方式/附件/Pasted image 20250122150948.png",
-    "00 关于本资料库的使用方式/附件/Pasted image 20250122150901.png",
-    "01 实用工具/需要部署的工具/【watch】prometheus+grafana监控mysql.md",
-    "02 编程语言学习/python/3.列表.md",
-    "02 编程语言学习/python/2.变量.md",
-    "02 编程语言学习/python/4.字典.md",
-    "02 编程语言学习/python/5.函数.md",
-    "02 编程语言学习/python/6.模块.md",
-    "02 编程语言学习/python/1.1 系统函数.md",
-    "02 编程语言学习/python/1.基础知识.md",
-    "00 关于本资料库的使用方式/附件/1737507474576.jpg",
-    "00 关于本资料库的使用方式/附件/Pasted image 20250122085823.png",
-    "04  操作系统/linux/系统编程/03 静态库与共享库.md",
-    "04  操作系统/linux/系统编程/02 线程.md",
-    "11 零散的知识/收藏其他人的收藏夹.md",
     "未命名.canvas"
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "frames": [
+    {
+      "url": "https://www.ruanyifeng.com/",
+      "displayName": "阮一峰博客",
+      "icon": "book-open-text",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.bilibili.com/",
+      "displayName": "B站",
+      "icon": "tv",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
