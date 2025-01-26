@@ -1,0 +1,673 @@
+{
+  "workspaces": {
+    "阅读": {
+      "main": {
+        "id": "cc4751bdf71fe284",
+        "type": "split",
+        "children": [
+          {
+            "id": "3e310479f15f5c9f",
+            "type": "tabs",
+            "dimension": 54.629629629629626,
+            "children": [
+              {
+                "id": "0e72159da3e8dfb4",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.ruanyifeng.com/survivor/plan-b/employment.html#:~:text=雇佣制度是一种有倾向性的制度"
+                  },
+                  "icon": "lucide-file",
+                  "title": "为什么雇佣制度对工人不利？ - 未来世界的幸存者 - 阮一峰的个人网站"
+                }
+              }
+            ]
+          },
+          {
+            "id": "4ac33bff632cf028",
+            "type": "tabs",
+            "dimension": 45.370370370370374,
+            "children": [
+              {
+                "id": "32eee40198c67341",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "13 读书笔记/网页读书/未来世界的幸存者.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "未来世界的幸存者"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0ab7369ddb1d2d99",
+        "type": "split",
+        "children": [
+          {
+            "id": "5abcf97a72d622f9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9485692fd846e39f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "938d07f34ac8464a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "sysctl",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "09ec795b4eca4e44",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "5609548e76a20ad8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 226.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "108b73372a05e3e2",
+        "type": "split",
+        "children": [
+          {
+            "id": "c5649b4e88a5dc70",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9c68730fc6e455b7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "13 读书笔记/网页读书/未来世界的幸存者.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "未来世界的幸存者"
+                }
+              },
+              {
+                "id": "43949bb6e2525bb9",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "00 关于本资料库的使用方式/obsidian 插件篇.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程 的反向链接列表"
+                }
+              },
+              {
+                "id": "0ad65c152d70fbea",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "00 关于本资料库的使用方式/obsidian 插件篇.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "【ai】 deepseek api接入 的出链列表"
+                }
+              },
+              {
+                "id": "4d47f53c45c135d6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "03d26fa24c12b409",
+                "type": "leaf",
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {},
+                  "icon": "lines-of-text",
+                  "title": "Quiet Outline"
+                }
+              },
+              {
+                "id": "715b1a543ea1dc9a",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "源代码管理"
+                }
+              },
+              {
+                "id": "37f3b9604a6f35ac",
+                "type": "leaf",
+                "state": {
+                  "type": "smtcmp-chat-view",
+                  "state": {},
+                  "icon": "wand-sparkles",
+                  "title": "Smart composer chat"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 472.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "command-palette:打开命令面板": false,
+          "surfing:surfing-bookmark-manager": false,
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "templates:插入模板": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "obsidian-file-cleaner:清理文件": false,
+          "cmdr:打开回收站": false,
+          "media-extended:打开媒体": false,
+          "pkmer:Open Pkmer Market": false,
+          "smart-composer:Open smart composer": false,
+          "obsidian-git:打开Git源代码管理": false,
+          "vscode-editor:新建代码文件": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "pdf-plus:PDF++: 切换自动复制": false,
+          "pdf-plus:PDF++: 切换自动对焦": false,
+          "pdf-plus:PDF++: 切换自动粘贴": false,
+          "i18n:I18N": false,
+          "obsidian-weread-plugin:同步微信读书笔记": false,
+          "cmdr:Weread: 强制同步微信读书笔记": false,
+          "cmdr:Commander: 打开 Commander 设置": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "9c68730fc6e455b7",
+      "mtime": "2025-01-26T10:21:34+08:00"
+    },
+    "视频": {
+      "main": {
+        "id": "cc4751bdf71fe284",
+        "type": "split",
+        "children": [
+          {
+            "id": "6edc584d51a74fd5",
+            "type": "split",
+            "children": [
+              {
+                "id": "3e310479f15f5c9f",
+                "type": "tabs",
+                "dimension": 64.90384615384616,
+                "children": [
+                  {
+                    "id": "e6538803a6091335",
+                    "type": "leaf",
+                    "state": {
+                      "type": "mx-webpage",
+                      "state": {
+                        "source": "https://www.bilibili.com/video/BV1JV411t7ow/"
+                      },
+                      "icon": "bilibili",
+                      "title": "中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程 - bilibili"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "b72aa500666f24db",
+                "type": "tabs",
+                "dimension": 35.09615384615385,
+                "children": [
+                  {
+                    "id": "64bed3c4971e58bf",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "08 网络知识/计算机网络/中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程.md",
+                        "mode": "preview",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0ab7369ddb1d2d99",
+        "type": "split",
+        "children": [
+          {
+            "id": "5abcf97a72d622f9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9485692fd846e39f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "938d07f34ac8464a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "sysctl",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "09ec795b4eca4e44",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "5609548e76a20ad8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 226.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "108b73372a05e3e2",
+        "type": "split",
+        "children": [
+          {
+            "id": "c5649b4e88a5dc70",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4045d9345b908a6d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "08 网络知识/计算机网络/中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程"
+                }
+              },
+              {
+                "id": "43949bb6e2525bb9",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "08 网络知识/计算机网络/中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程 的反向链接列表"
+                }
+              },
+              {
+                "id": "0ad65c152d70fbea",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "01 实用工具/需要部署的工具/【ai】 deepseek api接入.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "【ai】 deepseek api接入 的出链列表"
+                }
+              },
+              {
+                "id": "4d47f53c45c135d6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "03d26fa24c12b409",
+                "type": "leaf",
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {},
+                  "icon": "lines-of-text",
+                  "title": "Quiet Outline"
+                }
+              },
+              {
+                "id": "715b1a543ea1dc9a",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "源代码管理"
+                }
+              },
+              {
+                "id": "37f3b9604a6f35ac",
+                "type": "leaf",
+                "state": {
+                  "type": "smtcmp-chat-view",
+                  "state": {},
+                  "icon": "wand-sparkles",
+                  "title": "Smart composer chat"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 806.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "command-palette:打开命令面板": false,
+          "surfing:surfing-bookmark-manager": false,
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "templates:插入模板": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "obsidian-file-cleaner:清理文件": false,
+          "cmdr:打开回收站": false,
+          "media-extended:打开媒体": false,
+          "pkmer:Open Pkmer Market": false,
+          "smart-composer:Open smart composer": false,
+          "obsidian-git:打开Git源代码管理": false,
+          "vscode-editor:新建代码文件": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "pdf-plus:PDF++: 切换自动复制": false,
+          "pdf-plus:PDF++: 切换自动对焦": false,
+          "pdf-plus:PDF++: 切换自动粘贴": false,
+          "i18n:I18N": false,
+          "obsidian-weread-plugin:同步微信读书笔记": false,
+          "cmdr:Weread: 强制同步微信读书笔记": false,
+          "cmdr:Commander: 打开 Commander 设置": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "e6538803a6091335",
+      "mtime": "2025-01-26T10:23:46+08:00"
+    },
+    "初始化": {
+      "main": {
+        "id": "cc4751bdf71fe284",
+        "type": "split",
+        "children": [
+          {
+            "id": "3e310479f15f5c9f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a345fe060226c4dd",
+                "type": "leaf",
+                "state": {
+                  "type": "home-tab-view",
+                  "state": {},
+                  "icon": "search",
+                  "title": "Home tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0ab7369ddb1d2d99",
+        "type": "split",
+        "children": [
+          {
+            "id": "5abcf97a72d622f9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9485692fd846e39f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "938d07f34ac8464a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "sysctl",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "09ec795b4eca4e44",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "5609548e76a20ad8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 226.5
+      },
+      "right": {
+        "id": "108b73372a05e3e2",
+        "type": "split",
+        "children": [
+          {
+            "id": "c5649b4e88a5dc70",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "03d26fa24c12b409",
+                "type": "leaf",
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {},
+                  "icon": "lines-of-text",
+                  "title": "Quiet Outline"
+                }
+              },
+              {
+                "id": "5da2dd2eb58536bd",
+                "type": "leaf",
+                "state": {
+                  "type": "git-history-view",
+                  "state": {},
+                  "icon": "history",
+                  "title": "历史记录"
+                }
+              },
+              {
+                "id": "715b1a543ea1dc9a",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "源代码管理"
+                }
+              },
+              {
+                "id": "37f3b9604a6f35ac",
+                "type": "leaf",
+                "state": {
+                  "type": "smtcmp-chat-view",
+                  "state": {},
+                  "icon": "wand-sparkles",
+                  "title": "Smart composer chat"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 523.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "command-palette:打开命令面板": false,
+          "surfing:surfing-bookmark-manager": false,
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "templates:插入模板": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "obsidian-file-cleaner:清理文件": false,
+          "media-extended:打开媒体": false,
+          "pkmer:Open Pkmer Market": false,
+          "smart-composer:Open smart composer": false,
+          "obsidian-git:打开Git源代码管理": false,
+          "cmdr:Git: 打开历史记录视图": false,
+          "vscode-editor:新建代码文件": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "pdf-plus:PDF++: 切换自动复制": false,
+          "pdf-plus:PDF++: 切换自动对焦": false,
+          "pdf-plus:PDF++: 切换自动粘贴": false,
+          "i18n:I18N": false,
+          "obsidian-weread-plugin:同步微信读书笔记": false,
+          "cmdr:打开回收站": false,
+          "cmdr:Commander: 打开 Commander 设置": false,
+          "cmdr:Weread: 强制同步微信读书笔记": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "a345fe060226c4dd",
+      "mtime": "2025-01-26T10:26:30+08:00"
+    }
+  },
+  "active": "阅读"
+}

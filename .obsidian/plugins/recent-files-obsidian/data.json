@@ -1,120 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "obsidian 插件篇",
-      "path": "00 关于本资料库的使用方式/obsidian 插件篇.md"
-    },
-    {
       "basename": "未来世界的幸存者",
       "path": "13 读书笔记/网页读书/未来世界的幸存者.md"
     },
     {
-      "basename": "markdown语法",
-      "path": "00 关于本资料库的使用方式/markdown语法.md"
+      "basename": "关于本资料库的使用方式",
+      "path": "00 关于本资料库的使用方式/关于本资料库的使用方式.md"
     },
     {
-      "basename": "磁盘物理结构-》使用",
-      "path": "附件/磁盘物理结构-》使用.md"
+      "basename": "3.列表",
+      "path": "02 编程语言学习/python/3.列表.md"
+    },
+    {
+      "basename": "obsidian 插件篇",
+      "path": "00 关于本资料库的使用方式/obsidian 插件篇.md"
     },
     {
       "basename": "install",
       "path": "obsidian-pub-config/install.sh"
     },
     {
-      "basename": "每天演好一个情绪稳定的成年人",
-      "path": "13 读书笔记/微信读书/个人成长/每天演好一个情绪稳定的成年人.md"
-    },
-    {
-      "basename": "【shell】 终端推荐",
-      "path": "01 实用工具/开箱即用的工具/【shell】 终端推荐.md"
-    },
-    {
-      "basename": "【other】其他",
-      "path": "01 实用工具/开箱即用的工具/【other】其他.md"
-    },
-    {
-      "basename": "【NoteTool】Obsidian",
-      "path": "01 实用工具/开箱即用的工具/【NoteTool】Obsidian.md"
-    },
-    {
-      "basename": "【debug】wireshark",
-      "path": "01 实用工具/开箱即用的工具/【debug】wireshark.md"
-    },
-    {
-      "basename": "【debug】postman",
-      "path": "01 实用工具/开箱即用的工具/【debug】postman.md"
-    },
-    {
-      "basename": "【debug】mitmproxy(中间人攻击)",
-      "path": "01 实用工具/开箱即用的工具/【debug】mitmproxy(中间人攻击).md"
-    },
-    {
-      "basename": "【container】docker",
-      "path": "01 实用工具/开箱即用的工具/【container】docker.md"
-    },
-    {
-      "basename": "【CodeBuild】anacanda",
-      "path": "01 实用工具/开箱即用的工具/【CodeBuild】anacanda.md"
-    },
-    {
-      "basename": "【CodeBuild]】vim",
-      "path": "01 实用工具/开箱即用的工具/【CodeBuild]】vim.md"
-    },
-    {
-      "basename": "【CodeBuild]】git",
-      "path": "01 实用工具/开箱即用的工具/【CodeBuild]】git.md"
-    },
-    {
-      "basename": "【CodeBuild]】gcc & gdb & core",
-      "path": "01 实用工具/开箱即用的工具/【CodeBuild]】gcc & gdb & core.md"
-    },
-    {
-      "basename": "【CodeBuild]】cmake",
-      "path": "01 实用工具/开箱即用的工具/【CodeBuild]】cmake.md"
-    },
-    {
-      "basename": "ls_plus",
-      "path": "02 编程语言学习/shell/通用脚本/ls_plus.sh"
-    },
-    {
-      "basename": "shell 终端增强",
-      "path": "02 编程语言学习/shell/shell 终端增强.md"
-    },
-    {
-      "basename": "ipForward",
-      "path": "02 编程语言学习/shell/通用脚本/ipForward.sh"
+      "basename": "README",
+      "path": "obsidian-pub-config/README.md"
     },
     {
       "basename": "syncLocal",
       "path": "obsidian-pub-config/syncLocal.sh"
     },
     {
-      "basename": "前置知识",
-      "path": "02 编程语言学习/前端/前置知识.md"
+      "basename": "闲杂文谈",
+      "path": "13 读书笔记/网页读书/闲杂文谈.md"
     },
     {
-      "basename": "分享网络",
-      "path": "11 零散的知识/分享网络.md"
+      "basename": "03 磁盘管理",
+      "path": "04  操作系统/linux/系统知识/03 磁盘管理.md"
     },
     {
-      "basename": "2-5_回溯HTTP事务处理过程",
-      "path": "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第2章 HTTP初相识--了解HTTP协议/2-5_回溯HTTP事务处理过程.mp4"
+      "basename": "中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程",
+      "path": "08 网络知识/计算机网络/中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程.md"
     },
     {
-      "basename": "Pasted image 20250123172711",
-      "path": "00 关于本资料库的使用方式/附件/Pasted image 20250123172711.png"
-    },
-    {
-      "basename": "1737624203692",
-      "path": "00 关于本资料库的使用方式/附件/1737624203692.png"
-    },
-    {
-      "basename": "1-1_课程整体介绍",
-      "path": "资料/【慕课网】-大话HTTP协议 漫画+图解打造的编程基础课程/第1章 课程介绍【整体介绍http的恋爱路线】/1-1_课程整体介绍.mp4"
-    },
-    {
-      "basename": "06 python模板",
-      "path": "00-1 obsidian 模板/06 python模板.md"
+      "basename": "markdown语法",
+      "path": "00 关于本资料库的使用方式/markdown语法.md"
     }
   ],
   "omittedPaths": [],

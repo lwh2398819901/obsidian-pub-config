@@ -4,35 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "436c98953ecaa397",
+        "id": "3e310479f15f5c9f",
         "type": "tabs",
+        "dimension": 54.629629629629626,
         "children": [
           {
-            "id": "f23b7dce0f604602",
+            "id": "0e72159da3e8dfb4",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
-              "state": {},
-              "icon": "bookmark",
-              "title": "Pkmer Market"
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.ruanyifeng.com/survivor/plan-b/employment.html#:~:text=雇佣制度是一种有倾向性的制度"
+              },
+              "icon": "lucide-file",
+              "title": "为什么雇佣制度对工人不利？ - 未来世界的幸存者 - 阮一峰的个人网站"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4ac33bff632cf028",
+        "type": "tabs",
+        "dimension": 45.370370370370374,
+        "children": [
           {
-            "id": "5e018ee9b4ef5492",
+            "id": "32eee40198c67341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 关于本资料库的使用方式/obsidian 插件篇.md",
+                "file": "13 读书笔记/网页读书/未来世界的幸存者.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "obsidian 插件篇"
+              "title": "未来世界的幸存者"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,12 +103,12 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 226.5,
+    "collapsed": true
   },
   "right": {
     "id": "108b73372a05e3e2",
@@ -110,12 +119,26 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9c68730fc6e455b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13 读书笔记/网页读书/未来世界的幸存者.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "未来世界的幸存者"
+            }
+          },
+          {
             "id": "43949bb6e2525bb9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 实用工具/需要部署的工具/【ai】 deepseek api接入.md",
+                "file": "00 关于本资料库的使用方式/obsidian 插件篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "【ai】 deepseek api接入 的反向链接列表"
+              "title": "中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程 的反向链接列表"
             }
           },
           {
@@ -134,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 实用工具/需要部署的工具/【ai】 deepseek api接入.md",
+                "file": "00 关于本资料库的使用方式/obsidian 插件篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -185,15 +208,15 @@
               "title": "Smart composer chat"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 472.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Git: 打开历史记录视图": false,
       "command-palette:打开命令面板": false,
       "surfing:surfing-bookmark-manager": false,
       "graph:查看关系图谱": false,
@@ -201,6 +224,7 @@
       "templates:插入模板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-file-cleaner:清理文件": false,
+      "cmdr:打开回收站": false,
       "media-extended:打开媒体": false,
       "pkmer:Open Pkmer Market": false,
       "smart-composer:Open smart composer": false,
@@ -213,25 +237,43 @@
       "i18n:I18N": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "cmdr:Weread: 强制同步微信读书笔记": false,
-      "cmdr:打开回收站": false,
       "cmdr:Commander: 打开 Commander 设置": false,
-      "obsidian-custom-frames:Open 阮一峰博客": false,
-      "obsidian-custom-frames:Open B站": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "03d26fa24c12b409",
+  "active": "9c68730fc6e455b7",
   "lastOpenFiles": [
-    "13 读书笔记/网页读书/未来世界的幸存者.md",
+    "00 关于本资料库的使用方式/关于本资料库的使用方式.md",
+    "02 编程语言学习/python/3.列表.md",
+    "00 关于本资料库的使用方式/附件/1737873616025.png",
+    "00 关于本资料库的使用方式/附件/Pasted image 20250126143936.png",
     "00 关于本资料库的使用方式/obsidian 插件篇.md",
+    "obsidian-pub-config/install.sh",
+    "obsidian-pub-config/README.md",
+    "obsidian-pub-config/syncLocal.sh",
+    "13 读书笔记/网页读书/未来世界的幸存者.md",
+    "00 关于本资料库的使用方式/未命名 2.md",
+    "00 关于本资料库的使用方式/未命名 1.md",
+    "00 关于本资料库的使用方式/未命名.md",
+    "13 读书笔记/网页读书/闲杂文谈.md",
+    "04  操作系统/linux/系统知识/03 磁盘管理.md",
+    "08 网络知识/计算机网络/中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程.md",
+    "00 关于本资料库的使用方式/markdown语法.md",
+    "问题集/问题集.md",
+    "13 读书笔记/网页读书/附件/Pasted image 20250125154802.png",
+    "13 读书笔记/网页读书/附件/Pasted image 20250125141525.png",
+    "13 读书笔记/网页读书/附件/Pasted image 20250125141434.png",
+    "13 读书笔记/网页读书/那些无用的人 - 未来世界的幸存者 - 阮一峰的个人网站.md",
+    "为什么雇佣制度对工人不利？ - 未来世界的幸存者 - 阮一峰的个人网站.md",
+    "13 读书笔记/网页读书/附件",
+    "未命名.md",
     "00 关于本资料库的使用方式/附件/Pasted image 20250124152637.png",
     "00 关于本资料库的使用方式/附件/Pasted image 20250124152550.png",
     "00 关于本资料库的使用方式/附件/Pasted image 20250124152342.png",
     "00 关于本资料库的使用方式/附件/Pasted image 20250124152105.png",
-    "00 关于本资料库的使用方式/markdown语法.md",
     "test.md",
     "附件/磁盘物理结构-》使用.md",
     "13 读书笔记/网页读书",
-    "obsidian-pub-config/install.sh",
     "13 读书笔记/微信读书/个人成长/每天演好一个情绪稳定的成年人.md",
     "13 读书笔记/微信读书/社会文化/未来简史：从智人到智神.md",
     "13 读书笔记/微信读书/社会文化/人体简史.md",
@@ -242,30 +284,10 @@
     "13 读书笔记/微信读书/文学/弃猫：当我谈起父亲时.md",
     "13 读书笔记/微信读书/社会文化/失控.md",
     "13 读书笔记/微信读书/社会文化",
-    "13 读书笔记/微信读书/文学/月亮和六便士.md",
-    "13 读书笔记/微信读书/文学/1984.md",
-    "13 读书笔记/微信读书/文学/爱你就像爱生命.md",
     "13 读书笔记/微信读书/文学",
-    "13 读书笔记/微信读书/1984/1984.md",
-    "13 读书笔记/微信读书/程序是怎样跑起来的/程序是怎样跑起来的.md",
     "13 读书笔记/微信读书/程序是怎样跑起来的",
-    "13 读书笔记/微信读书/半小时漫画经济学3：金融危机完结篇/半小时漫画经济学3：金融危机完结篇.md",
     "13 读书笔记/微信读书/半小时漫画经济学3：金融危机完结篇",
-    "13 读书笔记/微信读书/半小时漫画经济学系列（共4册）/半小时漫画经济学系列（共4册）.md",
-    "13 读书笔记/微信读书/半小时漫画经济学系列（共4册）",
-    "13 读书笔记/微信读书/小狗钱钱/小狗钱钱.md",
-    "13 读书笔记/微信读书/小狗钱钱",
-    "13 读书笔记/微信读书/精通Python网络爬虫：核心技术、框架与项目实战/精通Python网络爬虫：核心技术、框架与项目实战.md",
-    "13 读书笔记/微信读书/资治通鉴（最爱读国学系列）/资治通鉴（最爱读国学系列）.md",
-    "13 读书笔记/微信读书/三体（全集）/三体（全集）.md",
-    "13 读书笔记/微信读书/Windows网络编程/Windows网络编程.md",
-    "13 读书笔记/微信读书/瘟疫与人/瘟疫与人.md",
     "00 关于本资料库的使用方式/附件/Pasted image 20250123172711.png",
-    "00 关于本资料库的使用方式/附件/Pasted image 20250123172305.png",
-    "00 关于本资料库的使用方式/附件/1737624203692.png",
-    "00 关于本资料库的使用方式/附件/Pasted image 20250123115908.png",
-    "01 实用工具/需要部署的工具/附件/Pasted image 20250122151604.png",
-    "01 实用工具/需要部署的工具/附件/Pasted image 20250122154328.png",
     "未命名.canvas"
   ]
 }

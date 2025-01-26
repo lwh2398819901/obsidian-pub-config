@@ -6,7 +6,7 @@
       "url": "https://duckduckgo.com/?q="
     }
   ],
-  "hoverPopover": true,
+  "hoverPopover": false,
   "ignoreList": [
     "notion",
     "craft"
@@ -17,9 +17,9 @@
   "markdownPath": "/",
   "customHighlightFormat": true,
   "highlightFormat": "[{CONTENT}]({URL})",
-  "highlightInSameTab": false,
+  "highlightInSameTab": true,
   "openInSameTab": false,
-  "showRefreshButton": false,
+  "showRefreshButton": true,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
   "useWebview": false,
